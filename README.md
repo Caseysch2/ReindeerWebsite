@@ -12,3 +12,7 @@ The website is automatically and immediately deployed.
 
 ## Your site is so small and bland. You should add [cool new thing] to it!
 Thank you and no thank you.
+
+
+
+![Reindeer Logo](images/reindeer-logo.svg)
