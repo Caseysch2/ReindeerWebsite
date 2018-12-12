@@ -2,6 +2,12 @@ window.onload = function() {
 	// The list of events (all fields are optional)
 	events = [
 		{
+			"title": "Just testing out some stuff",
+			"date": "", 
+			"picture": "",
+			"link":""
+		},
+		{
 			"title": "Merry Christmas <3",
 			"date": "December 25th, 2018", 
 			"picture": "",
