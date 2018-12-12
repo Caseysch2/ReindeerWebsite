@@ -1,0 +1,44 @@
+#top-bar {
+	background: #F2F2F0;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+#site-logo {
+	max-height: 90px;
+	margin: 20px;	
+}
+
+#logo-and-title {
+	display: flex;
+    flex-grow: 1;
+    align-items: center;
+}
+
+nav {
+	margin-left: auto;
+	margin-right: 20px;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav li {
+	display: inline;
+	margin-right: 10px;
+}
+
+nav li:not(:first-child):before {
+    content: '\00B7';
+	margin-right: 14px;
+	font-weight: bolder;
+}
+
+#top-bar a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

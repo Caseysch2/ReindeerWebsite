@@ -1,0 +1,10 @@
+#banner {
+	background-color: #262324;
+	background-size: cover;
+	height: 400px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+	justify-content: center;
+	background: no-repeat center center #262324;
+}

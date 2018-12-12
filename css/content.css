@@ -1,0 +1,50 @@
+#content {
+	background: #F2F2F0;
+	width: 80%;
+	align-self: center;
+    padding: 20px;
+    padding-bottom: 3em;
+}
+
+#content img {
+	float: left;
+	max-width: 30%;
+	padding: 10px;
+}
+
+#events {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+#events a {
+	text-decoration: none;
+}
+	
+.event {
+	height: 200px;
+	width: 200px;
+	background: white;
+	background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-size: 1.5em;
+	line-height: 1em;
+    font-weight: bold;
+	border: 2px solid grey;
+	margin: 10px;
+	overflow: hidden;
+}
+
+.event > .event-date {
+	background: rgba(0, 0, 0, 0.5);
+	flex-shrink: 0;
+}
+
+.event > .event-title {
+	background: rgba(0, 0, 0, 0.5);
+	max-height: 2em;
+}

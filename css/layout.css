@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background: #A5A29D;
+	display: flex;
+	flex-direction: column;
+	margin: 0;	
+    font-family: 'Garamond', serif;
+	font-size: 1.2em;
+}
+
+#top-bar {
+	flex-shrink: 0;
+}
+
+#banner{
+	flex-shrink: 0;
+}
+
+#content{
+	flex-shrink: 0;
+	flex-grow: 1;
+}
+
+#footer {
+	flex-shrink: 0;
+    background: #262324;
+    color: #A1A3A0;
+    text-align: center;
+    line-height: 1.5em;
+	font-size: .5em;
+}
