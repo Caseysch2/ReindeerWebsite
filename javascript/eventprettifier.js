@@ -124,7 +124,7 @@ window.onload = function() {
 		// Make a div for each event
 		for(var index in eventArray) {
 			// Figure out what will be shown, fall back on default values if we need to
-			var backgroundImage = eventArray[index]["picture"] || "./images/reindeer.svg";
+			var backgroundImage = eventArray[index]["picture"] || "./images/reindeer-logo.svg";
 			var eventTitle = eventArray[index]["title"] || "Untitled Event";
 			var eventDate = eventArray[index]["date"];
 			var thisEvent = "";
