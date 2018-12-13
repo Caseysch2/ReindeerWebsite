@@ -67,7 +67,7 @@ window.onload = function() {
 	var html = "";
 	for(var index in events) {
 		// Figure out what will be shown, fall back on default values if we need to
-		var backgroundImage = events[index]["picture"] || "./images/reindeer.svg";
+		var backgroundImage = events[index]["picture"] || "./images/reindeer-logo.svg";
 		var eventTitle = events[index]["title"] || "Untitled Event";
 		var eventDate = events[index]["date"] || "Unknown Date";		
 		var thisEvent = "";
