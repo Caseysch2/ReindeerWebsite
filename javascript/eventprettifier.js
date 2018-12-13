@@ -2,6 +2,18 @@ window.onload = function() {
 	// The list of events (all fields are optional)
 	events = [
 		{
+			"title": "See the Reindeer",
+			"date": "12/16/2018", 
+			"picture": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/48366677_2268904426455451_7719887080981004288_o.jpg?_nc_cat=105&_nc_ht=scontent-sea1-1.xx&oh=05924504af82840a7d7dc17b18f0f1bf&oe=5CAE6DD4",
+			"link":"https://www.facebook.com/events/1952687338359622/"
+		},
+		{
+			"title": "See the Reindeer",
+			"date": "12/23/2018", 
+			"picture": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/48366677_2268904426455451_7719887080981004288_o.jpg?_nc_cat=105&_nc_ht=scontent-sea1-1.xx&oh=05924504af82840a7d7dc17b18f0f1bf&oe=5CAE6DD4",
+			"link":"https://www.facebook.com/events/1952687338359622/"
+		},		
+		{
 			"title": "Merry Christmas <3",
 			"date": "12/25/2018", 
 			"picture": "",
@@ -95,7 +107,7 @@ window.onload = function() {
 	}	
 	
 	// Sort the current and past events
-	currentEvents = currentEvents.sort(function(event1, event2) { return event2.parsedDate - event1.parsedDate });
+	currentEvents = currentEvents.sort(function(event1, event2) { return event1.parsedDate - event2.parsedDate });
 	pastEvents = pastEvents.sort(function(event1, event2) { return event2.parsedDate - event1.parsedDate });
 	
 	// Put the events on the page
