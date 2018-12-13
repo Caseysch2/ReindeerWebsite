@@ -12,13 +12,19 @@
 	padding: 10px;
 }
 
-#events {
+.events {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
 }
 
-#events a {
+.events-title {
+	text-align: center;
+	background-color: #727372;
+    color: white;
+}
+
+.events a {
 	text-decoration: none;
 }
 	
