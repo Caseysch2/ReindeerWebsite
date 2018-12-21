@@ -18,7 +18,7 @@ All properties are optional, you can just put `""` instead of a real value for t
 ```
 {
   "title": "Your title here. It will be automatically cut off if too long.",
-  "date": "MM/DD/YY", 
+  "date": "MM/DD/YYYY", 
   "picture": "link to a picture (open a facebook image in a new tab and put that url here)",
   "link": "Link for more details"
 },
