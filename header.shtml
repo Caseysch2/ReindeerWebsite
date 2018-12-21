@@ -2,29 +2,29 @@
 <html lang="en">
 	<head>
 		<title>Shortsville Reindeer Farm</title>
-		
+
 		<meta charset = "UTF-8">
 		<meta name="robots" content="noindex"> <!-- Secret! For now... -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="Description" content="The Shortsville Reindeer Farm">
 
-		<link rel = "stylesheet" type = "text/css" href = "css\layout.css" />
-		<link rel = "stylesheet" type = "text/css" href = "css\topbar.css" />
-		<link rel = "stylesheet" type = "text/css" href = "css\banner.css" />
-		<link rel = "stylesheet" type = "text/css" href = "css\content.css" />
+		<link rel = "stylesheet" type = "text/css" href = "css/layout.css" />
+		<link rel = "stylesheet" type = "text/css" href = "css/topbar.css" />
+		<link rel = "stylesheet" type = "text/css" href = "css/banner.css" />
+		<link rel = "stylesheet" type = "text/css" href = "css/content.css" />
 	</head>
 	</head>
 	<body>
 		<!--Logo/nav-->
 		<div id="top-bar">
 			<div id="logo-and-title">
-				<img id="site-logo" src="images\reindeer-logo.svg" alt="logo"></img>
+				<img id="site-logo" src="images/reindeer-logo.svg" alt="logo"></img>
 				<h1 id="site-name"><a href=".">Shortsville Reindeer Farm</a></h1>
 			</div>
 			<nav>
 				<ul>
-					<li><a href=".\location.html">Location</a></li>
-					<li><a href=".\events.html">Events</a></li>
+					<li><a href="./location.html">Location</a></li>
+					<li><a href="./events.html">Events</a></li>
 				</ul>
 			</nav>
 		</div>
