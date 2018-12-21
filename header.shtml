@@ -8,6 +8,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="Description" content="The Shortsville Reindeer Farm">
 
+		<link rel="canonical" href='http://<!--#echo var="HTTP_HOST" -->/<!--#echo var="DOCUMENT_URI" -->' />
+
 		<link rel = "stylesheet" type = "text/css" href = "css/layout.css" />
 		<link rel = "stylesheet" type = "text/css" href = "css/topbar.css" />
 		<link rel = "stylesheet" type = "text/css" href = "css/banner.css" />
