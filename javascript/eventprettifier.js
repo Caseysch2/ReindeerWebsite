@@ -79,7 +79,7 @@ window.onload = function() {
 	var undatedEvents = [];
 	var currentEvents = [];
 	var pastEvents = [];
-	var tomorrow = Date.now() + 24*60*60*1000;
+	var yesterday = Date.now() - 24*60*60*1000;
 	for (var index in events) {
 		var parsedEventDate = new Date(Date.parse(events[index]["date"]));
 		
@@ -94,7 +94,7 @@ window.onload = function() {
 			events[index].parsedDate = parsedEventDate.getTime();
 			
 			// Put the date in the right category
-			if (parsedEventDate.getTime() < tomorrow) {
+			if (parsedEventDate.getTime() < yesterday) {
 				pastEvents.push(events[index]);
 			} else {
 				currentEvents.push(events[index]);
