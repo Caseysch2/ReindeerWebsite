@@ -79,7 +79,7 @@ window.onload = function() {
 	var undatedEvents = [];
 	var currentEvents = [];
 	var pastEvents = [];
-	var tomorrow = Date.now() + 24*60*60;
+	var tomorrow = Date.now() + 24*60*60*1000;
 	for (var index in events) {
 		var parsedEventDate = new Date(Date.parse(events[index]["date"]));
 		
