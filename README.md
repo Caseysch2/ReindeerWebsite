@@ -6,7 +6,7 @@ Welcome to the code base for the Shortsville Reindeer Farm Website!
 2. The easiest way to make changes is to go to the file you want to change, click the little "Edit" pencil at the top right of the file, and make your changes in the browser.
 3. Once you're done, add a title and a description describing what you changed and then "Commit changes" directly to the master branch.
 
-The website is automatically and immediately deployed.
+The website is automatically and immediately deployed. If you just changed a html file you'll see the change goes live quickly, but CloudFlare caches images/javascript so it may take some time for those to show up.
 
 (Is this the 'proper' way to use git? Not really. Does it work anyway? Absolutely. Since this is a low-traffic site and code base everything should... be... fine...)
 
