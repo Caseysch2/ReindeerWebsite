@@ -14,12 +14,6 @@ window.onload = function() {
 			"link":"https://www.facebook.com/events/2236833463268337/"
 		},
 		{
-			"title": "Merry Christmas <3",
-			"date": "12/25/2018", 
-			"picture": "",
-			"link":"https://arcticwwf.org/species/reindeer-caribou/"
-		},
-		{
 			"title": "Come visit the Reindeer",
 			"date": "12/2/2018", 
 			"picture": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/47179082_2252176351461592_6750026067601260544_n.jpg?_nc_cat=106&_nc_ht=scontent-sea1-1.xx&oh=4831d4fb0afe6c0db2db737f9fc36133&oe=5CAEEBBE",
