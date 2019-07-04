@@ -141,7 +141,7 @@ window.onload = function() {
 			}
 			
 			// Make the data into a pretty div
-			thisEvent += '<div class="event" style="background-image: url(./images/reindeer-logo.svg), url(' + backgroundImage + ')">';		
+			thisEvent += '<div class="event" style="background-image: url(' + backgroundImage + '), url(./images/reindeer-logo.svg)">';
 			
 			// Add the date and time
 			thisEvent += '<div class="event-date">' + eventDate + '</div>' +
