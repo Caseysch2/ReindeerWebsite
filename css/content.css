@@ -54,3 +54,14 @@
 	background: rgba(0, 0, 0, 0.5);
 	max-height: 2em;
 }
+
+a.button-link {
+    text-decoration: initial;
+    color: initial;
+    border: 1px solid #262324;
+    box-shadow: 2px 2px 5px #a5a29d;
+    background: #68a568;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
