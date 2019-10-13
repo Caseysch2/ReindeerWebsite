@@ -2,6 +2,11 @@ window.onload = function() {
 	// The list of events (all fields are optional)
 	events = [
 		{
+			"title": "Run With the Reindeer",
+			"date": "11/30/2019",
+			"link":"https://www.facebook.com/events/365911847651995/"
+		},
+		{
 			"title": "See the Reindeer",
 			"date": "12/16/2018", 
 			"picture": "./images/events/2018-12-16.jpg",
