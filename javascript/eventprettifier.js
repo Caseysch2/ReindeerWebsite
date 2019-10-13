@@ -4,7 +4,8 @@ window.onload = function() {
 		{
 			"title": "Run With the Reindeer",
 			"date": "11/30/2019",
-			"link":"https://www.facebook.com/events/365911847651995/"
+			"picture": "./images/reindeer_running.jpg",
+			"link":"https://shortsvillereindeer.com/run"
 		},
 		{
 			"title": "See the Reindeer",
