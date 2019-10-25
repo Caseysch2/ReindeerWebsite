@@ -1,10 +1,22 @@
 window.onload = function() {
 	// The list of events (all fields are optional)
-	events = [
+    events = [
+		{
+		    "title": "Christmas Wonderland Festival",
+		    "date": "12/07/2019",
+		    "picture": "./images/events/2019-12-07.jpg",
+		    "link": "https://www.trinityeventsnj.com/christmas"
+		},
+		{
+		    "title": "Christmas Wonderland Festival",
+		    "date": "12/08/2019",
+		    "picture": "./images/events/2019-12-07.jpg",
+		    "link": "https://www.trinityeventsnj.com/christmas"
+		},
 		{
 			"title": "Run With the Reindeer",
 			"date": "11/30/2019",
-			"picture": "./images/reindeer_running.jpg",
+			"picture": "./images/events/2019-11-30.jpg",
 			"link":"https://shortsvillereindeer.com/run"
 		},
 		{
@@ -36,18 +48,6 @@ window.onload = function() {
 			"date": "11/25/2018", 
 			"picture": "./images/events/2018-11-25.jpg",
 			"link":"https://www.facebook.com/events/294524054519787/"
-		},
-		{
-			"title": "Say hi to the new baby reindeer",
-			"date": "5/28/2018", 
-			"picture": "./images/events/2018-05-28.jpg",
-			"link": "https://www.facebook.com/events/421930808275853/"
-		},
-		{
-			"title": "Meet the Baby Reindeer!",
-			"date": "5/20/2018", 
-			"picture": "./images/events/2018-05-20.jpg",
-			"link": "https://www.facebook.com/events/2106519519592014/"
 		},
 		{
 			"title": "Last Chance to Meet the Reindeer Before Christmas",
