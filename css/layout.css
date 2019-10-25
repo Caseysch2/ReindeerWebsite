@@ -29,6 +29,7 @@ body {
     background: #262324;
     color: #A1A3A0;
     text-align: center;
-    line-height: 2em;
-	font-size: .8em;
+    font-size: smaller;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
