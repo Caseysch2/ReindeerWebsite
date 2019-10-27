@@ -12,6 +12,10 @@
 	padding: 10px;
 }
 
+#content img .float-right {
+	float: right;
+}
+
 .events {
 	display: flex;
 	flex-wrap: wrap;
