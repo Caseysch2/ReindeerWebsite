@@ -16,6 +16,12 @@
 	float: right;
 }
 
+#content span.article-detail {
+    color: #6d6d6d;
+    padding-left: 10px;
+    font-size: smaller;
+}
+
 .events {
 	display: flex;
 	flex-wrap: wrap;
