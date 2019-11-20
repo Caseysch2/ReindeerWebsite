@@ -14,7 +14,7 @@
 }
 
 #banner > img.left-banner,
-banner > img.right-banner {
+#banner > img.right-banner {
     filter: blur(20px);
     transform: scaleX(-5);	
     z-index: 0;
