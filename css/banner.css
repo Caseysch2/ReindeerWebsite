@@ -25,7 +25,7 @@ banner > img.right-banner {
     -webkit-transform-origin-x: 20%;
 }
 
-banner > img.right-banner {
+#banner > img.right-banner {
     clip-path: polygon(80% 0, 100% 0, 100% 100%, 80% 100%);
     -webkit-transform-origin-x: 80%;
 }
