@@ -65,7 +65,7 @@
 }
 
 .event > .event-title {
-	max-height: 2em;
+	max-height: 1.99em;
 	margin-top: auto;
 	overflow: hidden;
 }
