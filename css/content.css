@@ -55,14 +55,25 @@
 	overflow: hidden;
 }
 
-.event > .event-date {
+.event > div {
 	background: rgba(0, 0, 0, 0.5);
+	padding: 2px;
+}
+
+.event > .event-date {
 	flex-shrink: 0;
 }
 
 .event > .event-title {
-	background: rgba(0, 0, 0, 0.5);
 	max-height: 2em;
+	margin-top: auto;
+	overflow: hidden;
+}
+
+.event > .event-location {
+	font-size: initial;
+	line-height: initial;
+	text-align: right;
 }
 
 a.button-link {
