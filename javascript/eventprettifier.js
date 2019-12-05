@@ -33,61 +33,71 @@ window.onload = function() {
 			"title": "Run With the Reindeer",
 			"date": "11/30/2019",
 			"picture": "./images/events/2019-11-30.jpg",
-			"link":"https://shortsvillereindeer.com/run"
+			"link":"https://shortsvillereindeer.com/run",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "See the Reindeer",
 			"date": "12/16/2018", 
 			"picture": "./images/events/2018-12-16.jpg",
-			"link":"https://www.facebook.com/events/1952687338359622/"
+			"link":"https://www.facebook.com/events/1952687338359622/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "See the Reindeer",
 			"date": "12/23/2018", 
 			"picture": "./images/events/2018-12-23.jpg",
-			"link":"https://www.facebook.com/events/2236833463268337/"
+			"link":"https://www.facebook.com/events/2236833463268337/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Come visit the Reindeer",
 			"date": "12/2/2018", 
 			"picture": "./images/events/2018-12-02.jpg",
-			"link":"https://www.facebook.com/events/317172502217939/"
+			"link":"https://www.facebook.com/events/317172502217939/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Come See the Reindeer!",
 			"date": "12/9/2018", 
 			"picture": "./images/events/2018-12-09.jpg",
-			"link":"https://www.facebook.com/events/2230305200587562/"
+			"link":"https://www.facebook.com/events/2230305200587562/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Come visit the Reindeer! See how they have grown since last year",
 			"date": "11/25/2018", 
 			"picture": "./images/events/2018-11-25.jpg",
-			"link":"https://www.facebook.com/events/294524054519787/"
+			"link":"https://www.facebook.com/events/294524054519787/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Last Chance to Meet the Reindeer Before Christmas",
 			"date": "12/17/2017",
 			"picture": "./images/events/2017-12-17.jpg",
-			"link": "https://www.facebook.com/events/940516056097434/"
+			"link": "https://www.facebook.com/events/940516056097434/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Meet the Reindeer, again",
 			"date": "12/10/2017",
 			"picture": "./images/events/2017-12-10.jpg",
-			"link": "https://www.facebook.com/events/415304925554240/"
+			"link": "https://www.facebook.com/events/415304925554240/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Meet the Reindeer",
 			"date": "12/3/2017",
 			"picture": "./images/events/2017-12-03.jpg",
-			"link": "https://www.facebook.com/events/1682489158492940/"
+			"link": "https://www.facebook.com/events/1682489158492940/",
+			"location": "Shortsville, NY",
 		},
 		{
 			"title": "Barn Warming and Reindeer Welcome",
 			"date": "11/25/2017", 
 			"picture": "./images/events/2017-11-25.jpg",
-			"link":"https://www.facebook.com/events/1434059856642539/"
+			"link":"https://www.facebook.com/events/1434059856642539/",
+			"location": "Shortsville, NY",
 		}
 	];
 	
