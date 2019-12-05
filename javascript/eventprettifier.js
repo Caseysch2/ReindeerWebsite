@@ -2,10 +2,10 @@ window.onload = function() {
 	// The list of events (all fields are optional)
     events = [
 		{
-			"title": "Christmas Wonderland Festival",
+			"title": "Middleburgh's Miracle on Main St",
 			"date": "12/06/2019",
 			"picture": "./images/events/2019-12-06.jpg",
-			"link": "https://www.facebook.com/photo.php?fbid=10215663934616070",
+			"link": "https://www.facebook.com/events/2656227571105434/",
 			"location": "Middleburgh, NY",
 		},
 		{
