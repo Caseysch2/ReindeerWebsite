@@ -2,16 +2,18 @@ window.onload = function() {
 	// The list of events (all fields are optional)
     events = [
 		{
-		    "title": "Christmas Wonderland Festival",
-		    "date": "12/07/2019",
-		    "picture": "./images/events/2019-12-07.jpg",
-		    "link": "https://www.trinityeventsnj.com/christmas"
+			"title": "Christmas Wonderland Festival",
+			"date": "12/07/2019",
+			"picture": "./images/events/2019-12-07.jpg",
+			"link": "https://www.trinityeventsnj.com/christmas",
+			"location": "Orangeburg, NY",
 		},
 		{
-		    "title": "Christmas Wonderland Festival",
-		    "date": "12/08/2019",
-		    "picture": "./images/events/2019-12-07.jpg",
-		    "link": "https://www.trinityeventsnj.com/christmas"
+			"title": "Christmas Wonderland Festival",
+			"date": "12/08/2019",
+			"picture": "./images/events/2019-12-07.jpg",
+			"link": "https://www.trinityeventsnj.com/christmas"
+			"location": "Orangeburg, NY",
 		},
 		{
 			"title": "Run With the Reindeer",
@@ -149,9 +151,14 @@ window.onload = function() {
 			// Make the data into a pretty div
 			thisEvent += '<div class="event" style="background-image: url(' + backgroundImage + '), url(./images/reindeer-logo.svg)">';
 			
-			// Add the date and time
+			// Add the date and title
 			thisEvent += '<div class="event-date">' + eventDate + '</div>' +
 				'<div class="event-title">' + eventTitle + '</div>';
+			
+			// Add the location, if we have one
+			if (eventArray[index]["location"]) {
+				thisEvent += '<div class="event-location">' + eventArray[index]["location"] + '</div>';
+			}
 				
 			// Close the beginning div tag
 			thisEvent += '</div>';
