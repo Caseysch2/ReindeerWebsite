@@ -12,7 +12,7 @@ window.onload = function() {
 			"title": "Christmas Wonderland Festival",
 			"date": "12/08/2019",
 			"picture": "./images/events/2019-12-07.jpg",
-			"link": "https://www.trinityeventsnj.com/christmas"
+			"link": "https://www.trinityeventsnj.com/christmas",
 			"location": "Orangeburg, NY",
 		},
 		{
