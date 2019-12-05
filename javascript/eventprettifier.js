@@ -3,6 +3,20 @@ window.onload = function() {
     events = [
 		{
 			"title": "Christmas Wonderland Festival",
+			"date": "12/06/2019",
+			"picture": "./images/events/2019-12-06.jpg",
+			"link": "https://www.facebook.com/photo.php?fbid=10215663934616070",
+			"location": "Middleburgh, NY",
+		},
+		{
+			"title": "Meet the Boys",
+			"date": "12/22/2019",
+			"picture": "./images/events/2019-12-22.jpg",
+			"link": "https://www.facebook.com/events/1723556037775430/",
+			"location": "Shortsville, NY",
+		},
+		{
+			"title": "Christmas Wonderland Festival",
 			"date": "12/07/2019",
 			"picture": "./images/events/2019-12-07.jpg",
 			"link": "https://www.trinityeventsnj.com/christmas",
