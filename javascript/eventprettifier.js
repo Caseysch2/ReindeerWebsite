@@ -9,6 +9,20 @@ window.onload = function() {
 			"location": "Middleburgh, NY",
 		},
 		{
+			"title": "Sodus Rotary Winter Festival",
+			"date": "01/18/2020",
+			"picture": "./images/events/2019-12-07.jpg",
+			"link": "https://www.sodusrotary.org/winter-fest-2020",
+			"location": "Sodus Point, NY",
+		},
+		{
+			"title": "Meet the Boys",
+			"date": "12/21/2019",
+			"picture": "./images/events/2019-12-22.jpg",
+			"link": "https://www.facebook.com/events/1723556037775430/",
+			"location": "Shortsville, NY",
+		},
+		{
 			"title": "Meet the Boys",
 			"date": "12/22/2019",
 			"picture": "./images/events/2019-12-22.jpg",
