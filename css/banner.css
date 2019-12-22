@@ -5,7 +5,16 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	padding: 10px 0;
+	position: relative;
+}
+
+#top-gradient {
+	background: linear-gradient(#F2F2F0, transparent);
+	height: 10px;
+	width: 100%;
+	z-index: 2;
+	position: absolute;
+	top: 0;
 }
 
 #banner > img {
