@@ -24,6 +24,23 @@ All properties are optional, you can just put `""` instead of a real value for t
 },
 ```
 
+## That contact form...
+Is a Google form embedded in the page. It sends emails with the form contents with a <a href="https://medium.com/@max.brawer/learn-to-magically-send-emails-from-your-google-form-responses-8bbdfd3a4d02">little bit of scripting magic</a>. The actual script, should you need to recreate it, is:
+
+```
+function onFormSubmit(e) { 
+  var values = e.namedValues;
+  // Filter out weird dumplicate triggers
+  if(e.values && !e.values[1]){return;}
+  
+  var email = values["Email Address"];
+  var name = values["Your Name"];
+  htmlBody = "New message from " + email + ":<br>" + values["Message"];
+  GmailApp.sendEmail(email + ", bossman@fakeemail.com", "Reindeer talk with " + name, '', {htmlBody:htmlBody, 'from':'bossman@fakeemail.com'});
+}
+```
+
+
 ## Your site is so small and bland. You should add [cool new thing] to it!
 Thank you and no thank you.
 
