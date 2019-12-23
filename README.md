@@ -30,7 +30,7 @@ Is a Google form embedded in the page. It sends emails with the form contents wi
 ```
 function onFormSubmit(e) { 
   var values = e.namedValues;
-  // Filter out weird dumplicate triggers
+  // Filter out weird duplicate triggers
   if(e.values && !e.values[1]){return;}
   
   var email = values["Email Address"];
