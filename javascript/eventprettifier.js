@@ -2,7 +2,7 @@ window.onload = function() {
 	// The list of events (all fields are optional)
     events = [
 		{
-			"title": "Bring in the New Year!",
+			"title": "January 1st, Bring in the New Year with the Reindeer!",
 			"date": "01/01/2020",
 			"picture": "./images/events/2020-01-01.jpg",
 			"link": "https://www.facebook.com/events/1726163650851793/",
