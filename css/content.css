@@ -71,6 +71,11 @@
 	overflow: hidden;
 }
 
+.event:hover {
+    height: 210px;
+    margin: 5px 10px;
+}
+
 .event > div {
 	background: rgba(0, 0, 0, 0.5);
 	padding: 2px;
