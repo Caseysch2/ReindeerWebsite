@@ -1,6 +1,5 @@
 #content {
-	background: #F2F2F0;
-	width: 80%;
+	width: 75%;
 	align-self: center;
     padding: 20px;
     padding-bottom: 3em;
@@ -48,6 +47,8 @@ h2 {
 	text-align: center;
 	background-color: #727372;
     color: white;
+    margin-left: -20px;
+    margin-right: -20px;
 }
 
 .events a {
