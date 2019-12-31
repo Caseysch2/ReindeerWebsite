@@ -4,7 +4,7 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	align-items: center;
-	padding: 20px;
+	padding: 10px;
 	justify-content: space-around;
 }
 
@@ -20,12 +20,13 @@
 
 nav ul {
 	margin: 0;
+	padding: 0;
 	list-style-type: none;
 }
 
 nav li {
 	display: inline;
-	margin-right: 10px;
+	margin-left: 10px;
 }
 
 nav li:not(:first-child):before {

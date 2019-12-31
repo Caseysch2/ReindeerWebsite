@@ -108,3 +108,17 @@ a.button-link {
     padding: 5px 10px;
     font-weight: bold;
 }
+
+.list-with-image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.list-with-image > ul {
+    min-width: 55%;
+    flex-basis: 0;
+    flex-grow: 1;
+}
