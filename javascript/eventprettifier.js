@@ -159,15 +159,15 @@ window.onload = function() {
 	
 	// Put the events on the page
 	if (undatedEvents.length > 0) {
-		document.getElementById('undated-events-title').innerHTML = "<h2>Undated Events</h2>";
+		document.getElementById('undated-events-title').innerHTML = "Undated Events";
 		document.getElementById('undated-events').innerHTML = convertEventObjectsToDiv(undatedEvents);
 	}
 	if (currentEvents.length > 0) {	
-		document.getElementById('current-events-title').innerHTML = "<h2>Upcoming Events</h2>";
+		document.getElementById('current-events-title').innerHTML = "Upcoming Events";
 		document.getElementById('current-events').innerHTML = convertEventObjectsToDiv(currentEvents);
 	}
 	if (pastEvents.length > 0) {	
-		document.getElementById('past-events-title').innerHTML = "<h2>Past Events</h2>";
+		document.getElementById('past-events-title').innerHTML = "Past Events";
 		document.getElementById('past-events').innerHTML = convertEventObjectsToDiv(pastEvents);
 	}
 	
