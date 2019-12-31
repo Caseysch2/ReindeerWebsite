@@ -24,17 +24,25 @@
 
 #banner > img.left-banner,
 #banner > img.right-banner {
-    filter: blur(20px);
-    transform: scaleX(-5);	
-    z-index: 0;
+    display: none;
 }
 
-#banner > img.left-banner {
-    clip-path: polygon(0 0, 20% 0, 20% 100%, 0 100%);
-    -webkit-transform-origin-x: 20%;
-}
+@supports (clip-path: polygon(0 0, 20% 0, 20% 100%, 0 100%)) {
+    #banner > img.left-banner,
+    #banner > img.right-banner {
+        display: initial;
+        filter: blur(20px);
+        transform: scaleX(-5);
+        z-index: 0;
+    }
 
-#banner > img.right-banner {
-    clip-path: polygon(80% 0, 100% 0, 100% 100%, 80% 100%);
-    -webkit-transform-origin-x: 80%;
+    #banner > img.left-banner {
+        clip-path: polygon(0 0, 20% 0, 20% 100%, 0 100%);
+        -webkit-transform-origin-x: 20%;
+    }
+
+    #banner > img.right-banner {
+        clip-path: polygon(80% 0, 100% 0, 100% 100%, 80% 100%);
+        -webkit-transform-origin-x: 80%;
+    }
 }
