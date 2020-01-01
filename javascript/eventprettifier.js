@@ -4,6 +4,13 @@ window.onload = function () {
 	// The list of events (all fields are optional)
     events = [
 		{
+			"title": "January 1st, Bring in the New Year with the Reindeer (Muddy!)",
+			"date": "01/01/2021",
+			"picture": "./images/events/2021-01-01.jpg",
+			"link": "https://www.facebook.com/events/1726163650851793/",
+			"location": "Shortsville, NY",
+		},
+		{
 			"title": "Bring in the New Year with the Reindeer!",
 			"date": "01/01/2020",
 			"picture": "./images/events/2020-01-01.jpg",
