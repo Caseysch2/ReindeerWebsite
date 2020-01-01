@@ -24,7 +24,6 @@
 }
 
 .inline-image {
-    float: right;
     margin: 10px;
     border: 1px solid #9a9a9a;
     display: flex;
@@ -38,7 +37,7 @@
 }
 
 .inline-image img {
-    padding: 0;
+    padding: 0 !important;
 }
 
 #content span.article-detail {
