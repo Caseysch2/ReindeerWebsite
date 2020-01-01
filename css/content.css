@@ -15,8 +15,30 @@
 	padding: 10px 20px;
 }
 
-#content img.float-right {
+#content float-right {
 	float: right;
+}
+
+#content float-left {
+	float: left;
+}
+
+.inline-image {
+    float: right;
+    margin: 10px;
+    border: 1px solid #9a9a9a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    color: #6d6d6d;
+    padding-bottom: 5px;
+    font-size: smaller;
+    overflow: hidden;
+}
+
+.inline-image img {
+    padding: 0;
 }
 
 #content span.article-detail {
