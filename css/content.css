@@ -126,3 +126,8 @@ a.button-link {
 .list-with-image > img {
     max-width: 100%;
 }
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
