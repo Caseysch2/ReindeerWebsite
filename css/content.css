@@ -15,11 +15,11 @@
 	padding: 10px 20px;
 }
 
-#content float-right {
+#content .float-right {
 	float: right;
 }
 
-#content float-left {
+#content .float-left {
 	float: left;
 }
 
