@@ -1,6 +1,6 @@
-window.onload = function () {
-    document.getElementById('current-events').innerHTML = "Loading events...";
+document.getElementById('current-events').innerHTML = "Loading events...";
 
+window.onload = function () {
 	// The list of events (all fields are optional)
     events = [
 		{
