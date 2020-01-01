@@ -1,0 +1,154 @@
+#content {
+	width: 75%;
+	align-self: center;
+    padding: 20px;
+    padding-bottom: 3em;
+}
+
+#content.content-columns {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#content img {
+	padding: 10px 20px;
+}
+
+#content .float-right {
+	float: right;
+}
+
+#content .float-left {
+	float: left;
+}
+
+.inline-image {
+    margin: 10px;
+    border: 1px solid #9a9a9a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    color: #6d6d6d;
+    padding-bottom: 5px;
+    font-size: smaller;
+    overflow: hidden;
+}
+
+.inline-image img {
+    padding: 0 !important;
+}
+
+#content span.article-detail {
+    color: #6d6d6d;
+    padding-left: 10px;
+    font-size: smaller;
+}
+
+#other-contact-info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contact-address {
+    font-size: larger;
+    padding: 20px 0;
+}
+
+.events {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h2 {
+	text-align: center;
+	background-color: #727372;
+    color: white;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.events a {
+	text-decoration: none;
+}
+	
+.event {
+	height: 200px;
+	width: 200px;
+	background: white;
+	background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-size: 1.5em;
+	line-height: 1em;
+    font-weight: bold;
+	border: 2px solid grey;
+	margin: 10px;
+	overflow: hidden;
+}
+
+.event:hover {
+    height: 210px;
+    margin: 5px 10px;
+}
+
+.event > div {
+	background: rgba(0, 0, 0, 0.5);
+	padding: 2px;
+}
+
+.event > .event-date {
+	flex-shrink: 0;
+}
+
+.event > .event-title {
+	max-height: 1.98em;
+	margin-top: auto;
+	overflow: hidden;
+}
+
+.event > .event-location {
+	font-size: initial;
+	line-height: initial;
+	text-align: right;
+}
+
+a.button-link {
+    text-decoration: initial;
+    color: initial;
+    border: 1px solid #262324;
+    box-shadow: 2px 2px 5px #a5a29d;
+    background: #68a568;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.list-with-image {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.list-with-image > ul {
+    min-width: 55%;
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.list-with-image > img {
+    max-width: 100%;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
