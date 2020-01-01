@@ -17,10 +17,12 @@
 
 #content .float-right {
 	float: right;
+    clear: right;
 }
 
 #content .float-left {
 	float: left;
+    clear: left;
 }
 
 #content .content-section {
@@ -43,6 +45,7 @@
 
 .inline-image img {
     padding: 0 !important;
+    max-width: 100%;
 }
 
 #content span.article-detail {
