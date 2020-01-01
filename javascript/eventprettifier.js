@@ -1,4 +1,6 @@
-window.onload = function() {
+window.onload = function () {
+    document.getElementById('current-events').innerHTML = "Loading events...";
+
 	// The list of events (all fields are optional)
     events = [
 		{
@@ -163,7 +165,6 @@ window.onload = function() {
 		document.getElementById('undated-events').innerHTML = convertEventObjectsToDiv(undatedEvents);
 	}
     // Upcoming events is a special case- it'll show even if there's no upcoming events.
-	document.getElementById('current-events').innerHTML = "Loading events...";
 	if (currentEvents.length > 0) {	
 		document.getElementById('current-events').innerHTML = convertEventObjectsToDiv(currentEvents);
 	} else {
