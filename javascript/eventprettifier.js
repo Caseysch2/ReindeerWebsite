@@ -162,9 +162,12 @@ window.onload = function() {
 		document.getElementById('undated-events-title').innerHTML = "Undated Events";
 		document.getElementById('undated-events').innerHTML = convertEventObjectsToDiv(undatedEvents);
 	}
+    // Upcoming events is a special case- it'll show even if there's no upcoming events.
+	document.getElementById('current-events').innerHTML = "Loading events...";
 	if (currentEvents.length > 0) {	
-		document.getElementById('current-events-title').innerHTML = "Upcoming Events";
 		document.getElementById('current-events').innerHTML = convertEventObjectsToDiv(currentEvents);
+	} else {
+	    document.getElementById('current-events').innerHTML = "No upcoming events.";
 	}
 	if (pastEvents.length > 0) {	
 		document.getElementById('past-events-title').innerHTML = "Past Events";
