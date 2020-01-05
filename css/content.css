@@ -15,6 +15,12 @@
 	padding: 10px 20px;
 }
 
+#content img.thumbnail {
+	padding: 10px;
+    height: 100px;
+    width: 100px;
+}
+
 #content .float-right {
 	float: right;
     clear: right;
