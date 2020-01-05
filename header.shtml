@@ -18,11 +18,12 @@
 		<!--Logo/nav-->
 		<div id="top-bar">
 			<div id="logo-and-title">
-				<img id="site-logo" src="images/reindeer-logo.svg" alt="logo" />
+                <a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo" /></a>
 				<h1 id="site-name"><a href=".">Shortsville Reindeer Farm</a></h1>
 			</div>
 			<nav>
 				<ul>
+                    <li><a href=".">Home</a></li>
                     <li><a href="./about.html">About Us</a></li>
                     <li><a href="./events.html">Events</a></li>
 					<li><a href="https://www.facebook.com/pg/ShortsvilleReindeerFarm" target="_blank">Facebook</a></li>
