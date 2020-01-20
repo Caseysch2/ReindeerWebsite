@@ -1,4 +1,4 @@
-document.getElementById('photo-gallery').innerHTML = "Loading pictures...";
+document.getElementById('photo-gallery-container').innerHTML = "Loading pictures...";
 
 window.onload = function () {
     // Which photos belong in which sections
@@ -131,10 +131,12 @@ window.onload = function () {
 		
 	// Put the photos on the page
     if (photos.length > 0) {
-        document.getElementById('photo-gallery').innerHTML = "";
+        document.getElementById('photo-gallery-container').innerHTML = "";
         for (var sectionIndex in sections) {
-            document.getElementById('photo-gallery').innerHTML += "<h2>" + sections[sectionIndex].name + "</h2>";
-            document.getElementById('photo-gallery').innerHTML += convertEventObjectsToDiv(photos.slice( sections[sectionIndex].photosStart, sections[sectionIndex].photosEnd));
+            document.getElementById('photo-gallery-container').innerHTML += "<h2>" + sections[sectionIndex].name + "</h2>";
+            document.getElementById('photo-gallery-container').innerHTML += '<div class="photo-gallery">' +
+                convertEventObjectsToDiv(photos.slice(sections[sectionIndex].photosStart, sections[sectionIndex].photosEnd)) +
+                "</div>";
         }
 	}
 	
