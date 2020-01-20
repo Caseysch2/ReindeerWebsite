@@ -1,17 +1,18 @@
 #photo-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
     width: 90%;
-    align-self: center;
     padding: 20px;
     padding-bottom: 3em;
+    align-self: center;
+    display: flex;
     flex-shrink: 0;
     flex-grow: 1;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
 }
 
 #photo-gallery > div {
-    margin: 10px;
+    margin: 5px;
     border: 1px solid #9a9a9a;
     display: flex;
     flex-direction: column;
@@ -26,6 +27,8 @@
 #photo-gallery a > div {
     height: 300px;
     width: 300px;
+    max-width: calc(45vw - 20px);
+    max-height: calc(45vw - 20px);
     background-size: cover;
     background-position: center center;
 }
