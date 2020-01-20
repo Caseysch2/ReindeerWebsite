@@ -11,10 +11,11 @@
     overflow: hidden;
 }
 
-#photo-gallery > div > div {
+#photo-gallery a > div {
     height: 300px;
     width: 300px;
     padding: 0;
+    background-size: cover;
 }
 
 #photo-gallery {
