@@ -1,0 +1,30 @@
+#photo-gallery > div {
+    margin: 20px;
+    border: 1px solid #9a9a9a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    color: #6d6d6d;
+    padding-bottom: 5px;
+    font-size: smaller;
+    overflow: hidden;
+}
+
+#photo-gallery img {
+    height: 300px;
+    width: 300px;
+    padding: 0;
+}
+
+#photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#photo-gallery > div:hover {
+    background: #262324;
+    border: 1px solid #262324;
+    color: #A1A3A0;
+}
