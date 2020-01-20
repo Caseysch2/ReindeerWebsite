@@ -1,7 +1,6 @@
 .photo-gallery {
     width: 90%;
     padding: 20px;
-    padding-bottom: 3em;
     align-self: center;
     display: flex;
     flex-shrink: 0;
