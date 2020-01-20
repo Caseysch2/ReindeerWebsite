@@ -10,13 +10,13 @@ window.onload = function () {
         },
         {
             "name": "First Year with Reindeer",
-            "photosStart": 36,
+            "photosStart": 35,
             "photosEnd": 47,
         },
         {
             "name": "Hanging Out",
             "photosStart": 20,
-            "photosEnd": 35,
+            "photosEnd": 34,
         },
     ]
 
@@ -280,7 +280,7 @@ window.onload = function () {
 		for (var index in photos) {
 			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noreferrer">' +
 				'<div style="background-image: url(' + photos[index]["picture"] + ')" alt="' + photos[index]["desc"] + '"' +
-                (index % 14 == 0 || index %14 == 9 ? ' class="double-wide"' : '') + '></div></a>' +
+                (index % 6 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
 				'<div class="caption">' + photos[index]["caption"] + '</div></div>';
 
 			// Append it to the list of divs we have going
