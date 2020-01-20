@@ -1,3 +1,15 @@
+#photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%;
+    align-self: center;
+    padding: 20px;
+    padding-bottom: 3em;
+    flex-shrink: 0;
+    flex-grow: 1;
+}
+
 #photo-gallery > div {
     margin: 10px;
     border: 1px solid #9a9a9a;
@@ -14,14 +26,8 @@
 #photo-gallery a > div {
     height: 300px;
     width: 300px;
-    padding: 0;
     background-size: cover;
-}
-
-#photo-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    background-position: center center;
 }
 
 #photo-gallery > div:hover {
