@@ -134,7 +134,7 @@ window.onload = function () {
         document.getElementById('photo-gallery').innerHTML = "";
         for (var sectionIndex in sections) {
             document.getElementById('photo-gallery').innerHTML += "<h2>" + sections[sectionIndex].name + "</h2>";
-            document.getElementById('photo-gallery').innerHTML = convertEventObjectsToDiv(photos.slice( sections[sectionIndex].photosStart, sections[sectionIndex].photosEnd));
+            document.getElementById('photo-gallery').innerHTML += convertEventObjectsToDiv(photos.slice( sections[sectionIndex].photosStart, sections[sectionIndex].photosEnd));
         }
 	}
 	
