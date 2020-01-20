@@ -38,3 +38,14 @@
     border: 1px solid #262324;
     color: #A1A3A0;
 }
+
+#content > #photo-gallery {
+    margin-left: -5px;
+    margin-right: -5px;
+    padding: 0;
+}
+
+#content > #photo-gallery a > div {
+    max-width: calc(35vw - 10px);
+    max-height: calc(35vw - 10px);
+}
