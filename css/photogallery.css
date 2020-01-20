@@ -41,6 +41,11 @@
     background-position: center center;
 }
 
+#photo-gallery a > div.double-wide {
+    width: 610px;
+    max-width: calc(90vw - 20px);
+}
+
 #photo-gallery > div:hover {
     background: #262324;
     border: 1px solid #262324;
@@ -57,4 +62,8 @@
 #content > #photo-gallery a > div {
     max-width: calc(35vw - 10px);
     max-height: calc(35vw - 10px);
+}
+
+#content > #photo-gallery a > div.double-wide {
+    max-width: calc(70vw - 10px);
 }
