@@ -34,7 +34,7 @@ window.onload = function () {
 		// Make a div for each photo
 		for (var index in photos) {
 			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noreferrer">' +
-				'<div style="background-image: url(' + photos[index]["picture"] + ')" alt="' + photos[index]["desc"] + '"></a>' +
+				'<div style="background-image: url(' + photos[index]["picture"] + ')" alt="' + photos[index]["desc"] + '"></div></a>' +
 				photos[index]["caption"] + '</div>';
 
 			// Append it to the list of divs we have going
