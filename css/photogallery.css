@@ -1,12 +1,12 @@
 .photo-gallery {
     width: 90%;
     padding: 20px;
-    align-self: center;
+    margin: auto;
     display: flex;
     flex-shrink: 0;
     flex-grow: 1;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     align-content: flex-start;
 }
 
