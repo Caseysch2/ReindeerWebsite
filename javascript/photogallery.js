@@ -280,7 +280,7 @@ window.onload = function () {
 		for (var index in photos) {
 			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noreferrer">' +
 				'<div style="background-image: url(' + photos[index]["picture"] + ')" alt="' + photos[index]["desc"] + '"' +
-                (index % 6 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
+                (index % 5 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
 				'<div class="caption">' + photos[index]["caption"] + '</div></div>';
 
 			// Append it to the list of divs we have going
