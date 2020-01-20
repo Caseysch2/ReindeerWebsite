@@ -25,7 +25,7 @@ window.onload = function () {
 		
 	// Put the photos on the page
 	if (photos.length > 0) {
-		document.getElementById('photo-gallery').innerHTML = convertEventObjectsToDiv(undatedEvents);
+		document.getElementById('photo-gallery').innerHTML = convertEventObjectsToDiv(photos);
 	}
 	
 	/**
