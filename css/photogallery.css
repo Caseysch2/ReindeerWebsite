@@ -1,5 +1,5 @@
 #photo-gallery > div {
-    margin: 20px;
+    margin: 10px;
     border: 1px solid #9a9a9a;
     display: flex;
     flex-direction: column;
@@ -11,7 +11,7 @@
     overflow: hidden;
 }
 
-#photo-gallery img {
+#photo-gallery > div > div {
     height: 300px;
     width: 300px;
     padding: 0;
