@@ -1,7 +1,21 @@
 document.getElementById('photo-gallery').innerHTML = "Loading pictures...";
 
 window.onload = function () {
-	// The list of events (all fields are mandatory)
+    // Which photos belong in which sections
+    sections = [
+        {
+            "name": "Building the Barn",
+            "photosStart": 0,
+            "photosEnd": 19,
+        },
+        {
+            "name": "Hanging Out",
+            "photosStart": 20,
+            "photosEnd": 37,
+        },        
+    ]
+
+	// The list of photos (all fields are mandatory)
     photos = [
 		{
 		    "picture": "https://lh3.googleusercontent.com/AIm3oYjhxEfFk8s3kA_hFvfzWJW4Q9RLl6u4X-QvcSBtqQ4Aa7E068dhaJ1MBHaUbMhjudVymQfrH-TWZu9Lax_WFogRkWTa4bw8N7nzW0UCjMAEaCnUEt-lBQCmYJS1Bm_dHiUM5ztOFzbze5Zdoj1Y7uSiSMteBl4IzrsjPMWxxz3bLeE9stSTHijw5afE56DGZ8bjaK_WyD4so7tsQ9HzkdeUpO9t4xxkmXFsKfS_QA03S_u09AaV6OIHAp28m9RwflvLbSbjtERzST5bxiL3b-A6EYomWnAJWHNL3S37tCjq3b8KR54OaRwKkcI444P456Kj37tFmSV0RqQFOTQmXdx_pggbvKVDIGua8AIx78OL_85FO4ryqH3eqBPgt3s-3UWa4xSzHqrZeNF8nGbxWdBFPJzvDBWPUCYvmcpMXHRzf8hr1KglBgmlwtdB5gRDI18fy5py_ddQnP6ucdYjxREz7m3hu3yqzWy22zcA45Kapsr3rGQraIPLZuM6pNAYFGFPRe_RfW3QAMKnvMBOuOvu0Fd3402Xw_E7UgnCbRfUZaSnUb7xP6GLzLyNch50ZqlnM2rSwvi4RRExFVFLhxTBzWL00EpUDrLL9cwB8ziCReBx0vougDSdaTq2BP673EBrx2z8XOurGkE_jb2AFenk5x_rMmikdGoT3VPaOIqNosOqY8pKmFOPSUu42NPB0IFRVm2VxDu7JNSNr45xjdWg1n1UigATFit39pJwAzMg=w1250-h937-no",
@@ -102,12 +116,26 @@ window.onload = function () {
 		    "picture": "https://lh3.googleusercontent.com/0z8Gb82BANWi4NvGXyX41acy2TG3seNIALWpQvOVU6cxng1HF-ZNRKnHe-N_ZEsXPzWFRZuFvI-fvwKEz5SCt3zN3hUeziuqr9RoUYqfhihoirSv7k-igHG0E_GwUpbip1FY8v40HVvf_5mx7juK_InYwYyV7KUFi80bk8j-WsBWm_S0RcRDPFH_w9uilyjjhotutIl-XO7VfIaUrelLGzUgcHOgeUelxSrV6ZhiL5k3yudQw3C8zaKe1zyaTFUJqztpjOAvs80mZV9pnuRYcYPt3KnJQ60pFvcgSL2iyL45v6SY6HlbTb0ER15TuJv-PrG7N4cuHJMlcOpCnR_YbNkdTmUC5l_D3rGt9EThfpZ4b2baNAtQS9VQVWYpNQlmsSvPuFtW8CcKPJOIHK4sEP0dRQOMnNwMWEwo-GU1BFrrSHbOD-38VAiFAATr0Qxyb7CaGHtJGY1UhoUn4XL1OzTQ9VQcbokSgavf8ZAA58FjdXpSFa_zJMKGDWmUx4sYLIFaINekTJyvE0HS-7hQeQhG6NGvFeU3plsgM5xMt_3npoWhje61KofwPzmMiT8Uv99FwtOMnNiZunBqYeVJHEkr6rHNZJViZ9IOSObMartt3t1AJaWSEr3vJSgQRMzK3Rhz-gaN1iRM46GD2qFAzuygamKzyBFpV1SXgHhBr5xlUO8b7pUnfXBEya6jHbCYnQ7jy759b32oKxoo8nOy0swJdIZT1aAYhYEd-ceEaxmW83LV=s937-no",
 		    "desc": "",
 		    "caption": "20",
+		},
+		{
+		    "picture": "https://lh3.googleusercontent.com/0z8Gb82BANWi4NvGXyX41acy2TG3seNIALWpQvOVU6cxng1HF-ZNRKnHe-N_ZEsXPzWFRZuFvI-fvwKEz5SCt3zN3hUeziuqr9RoUYqfhihoirSv7k-igHG0E_GwUpbip1FY8v40HVvf_5mx7juK_InYwYyV7KUFi80bk8j-WsBWm_S0RcRDPFH_w9uilyjjhotutIl-XO7VfIaUrelLGzUgcHOgeUelxSrV6ZhiL5k3yudQw3C8zaKe1zyaTFUJqztpjOAvs80mZV9pnuRYcYPt3KnJQ60pFvcgSL2iyL45v6SY6HlbTb0ER15TuJv-PrG7N4cuHJMlcOpCnR_YbNkdTmUC5l_D3rGt9EThfpZ4b2baNAtQS9VQVWYpNQlmsSvPuFtW8CcKPJOIHK4sEP0dRQOMnNwMWEwo-GU1BFrrSHbOD-38VAiFAATr0Qxyb7CaGHtJGY1UhoUn4XL1OzTQ9VQcbokSgavf8ZAA58FjdXpSFa_zJMKGDWmUx4sYLIFaINekTJyvE0HS-7hQeQhG6NGvFeU3plsgM5xMt_3npoWhje61KofwPzmMiT8Uv99FwtOMnNiZunBqYeVJHEkr6rHNZJViZ9IOSObMartt3t1AJaWSEr3vJSgQRMzK3Rhz-gaN1iRM46GD2qFAzuygamKzyBFpV1SXgHhBr5xlUO8b7pUnfXBEya6jHbCYnQ7jy759b32oKxoo8nOy0swJdIZT1aAYhYEd-ceEaxmW83LV=s937-no",
+		    "desc": "",
+		    "caption": "20",
+		},
+		{
+		    "picture": "https://lh3.googleusercontent.com/0z8Gb82BANWi4NvGXyX41acy2TG3seNIALWpQvOVU6cxng1HF-ZNRKnHe-N_ZEsXPzWFRZuFvI-fvwKEz5SCt3zN3hUeziuqr9RoUYqfhihoirSv7k-igHG0E_GwUpbip1FY8v40HVvf_5mx7juK_InYwYyV7KUFi80bk8j-WsBWm_S0RcRDPFH_w9uilyjjhotutIl-XO7VfIaUrelLGzUgcHOgeUelxSrV6ZhiL5k3yudQw3C8zaKe1zyaTFUJqztpjOAvs80mZV9pnuRYcYPt3KnJQ60pFvcgSL2iyL45v6SY6HlbTb0ER15TuJv-PrG7N4cuHJMlcOpCnR_YbNkdTmUC5l_D3rGt9EThfpZ4b2baNAtQS9VQVWYpNQlmsSvPuFtW8CcKPJOIHK4sEP0dRQOMnNwMWEwo-GU1BFrrSHbOD-38VAiFAATr0Qxyb7CaGHtJGY1UhoUn4XL1OzTQ9VQcbokSgavf8ZAA58FjdXpSFa_zJMKGDWmUx4sYLIFaINekTJyvE0HS-7hQeQhG6NGvFeU3plsgM5xMt_3npoWhje61KofwPzmMiT8Uv99FwtOMnNiZunBqYeVJHEkr6rHNZJViZ9IOSObMartt3t1AJaWSEr3vJSgQRMzK3Rhz-gaN1iRM46GD2qFAzuygamKzyBFpV1SXgHhBr5xlUO8b7pUnfXBEya6jHbCYnQ7jy759b32oKxoo8nOy0swJdIZT1aAYhYEd-ceEaxmW83LV=s937-no",
+		    "desc": "",
+		    "caption": "20",
 		}
 	];
 		
 	// Put the photos on the page
-	if (photos.length > 0) {
-		document.getElementById('photo-gallery').innerHTML = convertEventObjectsToDiv(photos);
+    if (photos.length > 0) {
+        document.getElementById('photo-gallery').innerHTML = "";
+        for (var sectionIndex in sections) {
+            document.getElementById('photo-gallery').innerHTML += "<h2>" + sections[sectionIndex].name + "</h2>";
+            document.getElementById('photo-gallery').innerHTML = convertEventObjectsToDiv(photos.slice( sections[sectionIndex].photosStart, sections[sectionIndex].photosEnd));
+        }
 	}
 	
 	/**
