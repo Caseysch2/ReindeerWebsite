@@ -6,7 +6,7 @@
     flex-shrink: 0;
     flex-grow: 1;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     align-content: flex-start;
 }
 
