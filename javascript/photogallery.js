@@ -6,17 +6,17 @@ window.onload = function () {
         {
             "name": "Building the Barn",
             "photosStart": 0,
-            "photosEnd": 15,
+            "photosEnd": 14,
         },
         {
             "name": "First Year with Reindeer",
-            "photosStart": 31,
-            "photosEnd": 36,
+            "photosStart": 30,
+            "photosEnd": 35,
         },
         {
             "name": "Hanging Out",
-            "photosStart": 16,
-            "photosEnd": 30,
+            "photosStart": 15,
+            "photosEnd": 29,
         },
     ]
 
@@ -226,7 +226,7 @@ window.onload = function () {
 			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noreferrer">' +
 				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" alt="' + photos[index]["desc"] + '"' +
                 (index % 5 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
-				'<div class="caption">' + photos[index]["caption"] + '</div></div>';
+				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></div>';
 
 			// Append it to the list of divs we have going
 			returnHtml = returnHtml + thisEvent;

@@ -29,6 +29,8 @@
     width: 290px;
     text-align: center;
     word-break: break-word;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .photo-gallery a > div {
@@ -40,7 +42,7 @@
     background-position: center center;
 }
 
-.photo-gallery a > div.double-wide {
+.photo-gallery .double-wide {
     width: 610px;
     max-width: calc(90vw - 20px);
 }
@@ -67,6 +69,6 @@
     max-width: calc(35vw - 10px);
 }
 
-#content > .photo-gallery a > div.double-wide {
+#content > .photo-gallery .double-wide {
     max-width: calc(70vw - 10px);
 }
