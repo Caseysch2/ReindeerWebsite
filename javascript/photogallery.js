@@ -80,7 +80,7 @@ window.onload = function () {
 		{
 		    "picture": "https://lh3.googleusercontent.com/c3vna6E8VQ1zKm-60CHQ_yd010xuBiFlAV-xmTFK4_9qH_BrNu-cZaTlZMFNiptjAID4GOVEMOFp0SC8dqi1SgYxSe1kEEA77OK3G3IUOi6x55UsDVaaIdSwmjBEIo9aVSRnxg-pp5SJCLNtsrJhLrJtlcg7sSKI25GQkFOoCNsly_czEiVB_FJqp6i1XCBJS7N_bzmeoYY-THRzBv6eWleXWTkdqKyR-3Wd7fHSfCz2hU35BUHFP8EDpaf0tejT13xc_fFcyWZ_JyEvsB3fTcbU1bO2C1LHpa3jjXHeBuMsuzhLphFwMNA38_YeeGeH9BxKh9iZIz5FauDbm0CQ7VrMquu_vxze8sP62Mzsj3MuyKtZAs1nqW8kz1bvUv9cqFFD31XrVKf6pElvxwRwQFl1iwsfDCFt-Kwi6cKptCowf4sYduXTrL_zg1x7OsNxMyqm1H51VM80Dpr_BktKxesPOMYOQ-fBsfiYnFobLs8zDo7xki9j0ZigGtOebIfIRXsZ_YWHg910HxtCb6SfBi-zopjoY3EMOdzVL65WRJoKm7fWSEYWyyIGO5c8cX89REbXyyMBz6tuKjZcMv-bWj9BOyDY_ky3qtoPLofe8Q_S74LBVLIF9DlcnvdeyzxXHZ4FLYCAGz5dlT-dc7ZLppL8QpSci5k05JnvgoHeYkFgPGEZ-JTP1wnt_B6dlILXLucRZC7RK_dn7GV9f_yd-OoJS68yimag3ZC8YRC7hxYqEAcg=s937-no",
 		    "desc": "A woman hammers shingles onto the roof as a man works at ground level nearby",
-		    "caption": "Toby below and Pam on top. Would never have done this roof without them1",
+		    "caption": "Toby below and Pam on top. Would never have done this roof without them",
 		},
 		{
 		    "picture": "https://lh3.googleusercontent.com/qKrOf3Km0dH3G6yx63_ZMjb3NTpHo8ORNc_18AvKToaQvplh07Yr5JB04KLGB52IvvLDYIZ7VDhmvtAB74Wzz7U-3K5cew8aMyFwaZ7GfYPLo2-BLzD3s1c7spkyHgLCsEqT8DYP6_rri4XQpH5GPn42plR_F0Qje00u8TJLyIk3zP-lKKRV4QnixtQLG_WIjIP_3aTnjgz5NLpN0yB8w-AL2VvvsiQB0Fz-e_Wt1pCcRZaJrVJvWdnBoz2gsytj9Obyz2jZYA8eNJveP4nB8cOs4lYuiWZnH_5pw9rbk5khVCCnozrnp05rPdFAwjuSboPXTdZaJ3EmMlsvF_AvvNJ8Y3Uas-YTw_3H697CJkiERI1XpctXGQfYtSfpL3Y9UEhHZf3BHGgsu5us9F7GqS5JRMaiKr0qo6Ji4EoVcfneeFoDVaYQoTcVngltudOD1_fIcu6AEA0wdtyYgBFIFOTsmBzEeVWNqsgyw9ypzaZ1MlrLFpRsa6K1zsPldUJESGcAHJ7tsTK7C-WSGKjwycnCKUTUC5Y6k2cJF9nWWu4RcKnBGARNhC1daCkLFgzOoRiEgsJPVPsi4B91XsABmUdj4YqR_aCdVMn7IaroJ94qrUzE2mvoj9qTFIPoAca3IJN-Jc3EuGW8uHGPelRYJC-U43UNB0Hk7bsrJuZ5Bs81F2D4e9w6aVwIv2LDl26w_e2I-G2DilSqlzuc3PUo56LqA92xPkf8xURkvdxVpB8mdgMa=s937-no",
@@ -224,7 +224,7 @@ window.onload = function () {
 		// Make a div for each photo. "Randomly" select some of them to be double width.
 		for (var index in photos) {
 			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noreferrer">' +
-				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" alt="' + photos[index]["desc"] + '"' +
+				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" title="' + photos[index]["desc"] + '"' +
                 (index % 5 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
 				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></div>';
 
