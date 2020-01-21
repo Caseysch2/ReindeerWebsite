@@ -224,7 +224,7 @@ window.onload = function () {
 		// Make a div for each photo. "Randomly" select some of them to be double width.
 		for (var index in photos) {
 			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noreferrer">' +
-				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" title="' + photos[index]["desc"] + '"' +
+				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
                 (index % 5 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
 				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></div>';
 
