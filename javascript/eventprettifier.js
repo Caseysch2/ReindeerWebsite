@@ -194,7 +194,7 @@ window.onload = function () {
 			
 			// Wrap it in a link tag, if we have one
 			if (eventArray[index]["link"]) {
-				thisEvent += '<a href="' + eventArray[index]["link"] + '" target="_blank" rel="noreferrer">';
+				thisEvent += '<a href="' + eventArray[index]["link"] + '" target="_blank" rel="noopener">';
 			}
 			
 			// Make the data into a pretty div
