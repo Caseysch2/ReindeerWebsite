@@ -26,11 +26,12 @@
 .photo-gallery .caption {
     max-width: calc(45vw - 20px);
     padding: 5px;
-    width: 290px;
+    width: 300px;
     text-align: center;
     word-break: break-word;
     margin-top: auto;
     margin-bottom: auto;
+    box-sizing: border-box;
 }
 
 .photo-gallery a > div {
@@ -60,13 +61,10 @@
     padding: 0;
 }
 
-#content > .photo-gallery a > div {
-    max-width: calc(35vw - 10px);
-    max-height: calc(35vw - 10px);
-}
-
+#content > .photo-gallery a > div,
 #content > .photo-gallery .caption {
     max-width: calc(35vw - 10px);
+    max-height: calc(35vw - 10px);
 }
 
 #content > .photo-gallery .double-wide {
