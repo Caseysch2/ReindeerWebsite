@@ -10,13 +10,13 @@ window.onload = function () {
         },
         {
             "name": "First Year with Reindeer",
-            "photosStart": 30,
-            "photosEnd": 35,
+            "photosStart": 27,
+            "photosEnd": 32,
         },
         {
             "name": "Hanging Out",
             "photosStart": 15,
-            "photosEnd": 29,
+            "photosEnd": 26,
         },
     ]
 
