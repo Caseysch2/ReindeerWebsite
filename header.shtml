@@ -17,9 +17,22 @@
 	</head>
 	<body>
 		<!--Logo/nav-->
+		<div id="announcement-banner" style="
+		    text-align: center;
+		    padding-left: 12%;
+		    padding-right: 12%;
+		    background: #309e2c;
+		    color: white;
+		    box-shadow: 0px 5px 5px grey;
+		    z-index: 1;
+		    font-weight: bold;
+		">
+			<h3>Our home is open for visits!</h3>
+			<p>We're open every day, dawn to dusk, with no fee! Please park in the driveway, enter through the first gate, and stay between the fences. The deer will probably come up to the fence to see you. Just remember to bring your masks and stay 6 feet away from other families. Stay Safe!</p>
+		</div>
 		<div id="top-bar">
 			<div id="logo-and-title">
-                <a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo" /></a>
+                		<a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo" /></a>
 				<h1 id="site-name"><a href=".">Shortsville Reindeer Farm</a></h1>
 			</div>
 			<nav>
