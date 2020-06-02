@@ -211,7 +211,7 @@ window.onload = function () {
 		for (var sectionIndex in photos) {
 			document.getElementById('photo-gallery-container').innerHTML += "<h2>" + photos[sectionIndex].name + "</h2>";
 			document.getElementById('photo-gallery-container').innerHTML += '<div class="photo-gallery">' +
-				convertEventObjectsToDiv(photos[sectionIndex]) +
+				convertEventObjectsToDiv(photos[sectionIndex].photos) +
 				"</div>";
 		}
 	}
