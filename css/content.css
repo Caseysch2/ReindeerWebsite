@@ -37,7 +37,7 @@
 }
 
 .inline-image {
-    margin: 20px;
+    margin: 10px 20px;
     border: 1px solid #9a9a9a;
     display: flex;
     flex-direction: column;
