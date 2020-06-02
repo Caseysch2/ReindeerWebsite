@@ -11,7 +11,7 @@ window.onload = function () {
         {
             "name": "First Year with Reindeer",
             "photosStart": 27,
-            "photosEnd": 32,
+            "photosEnd": 36,
         },
         {
             "name": "Hanging Out",
@@ -186,6 +186,26 @@ window.onload = function () {
 		    "picture": "https://lh3.googleusercontent.com/xBgJ-c2Av_0JggM9Js3dowo1mr9HOsfMDd4eVZ7VDp2LidSBkEPBDkU6WyWmbNMunD1468NdJZQpnCSCHYanColODJIZm8ItIFL5eYE9dwyUDB3FMlZ5L25K7VX9yoobaZ25EZuPuDjn4X48eoIoVRjUnIpandSQu_T6HYKKD4blkYthpa0faes01lxJGIl598cizleMA7IhfeLYh3UJNSLgivlEc8FY4aKW_siKqXDkkgn8mK5qFvSNN7a7tdKvpBJAfGwhyCqjhtFMoaksA8JOXh-Lnc3pmD3uIlWiwq9vJ_8hEmbxtfWa7_RuL5WB3AtPsdXilgwopM_Mq2q4LbU5k_lhUT2u8jPEg3BVMAPF9Z0ofl4S0oGJoIYB61qCzg8xrD8PWCnyDcF-EZncBUGYh6Gb856IBjGCpf17MWfK1nhFqqhidYh_URCR1uYzFme3h1RCdA3tHeFUeFScmt_-q28qjoFH_Pt3rGeEJNnAMbNbr3UcB384B1wnfxnQYpDqM6nI4lub2YlwSn-M51gZoRn1rqpXtRwoSRcYt-wjrP3Gdiz3j1LA4E0oszYervct9jT4WvEcx57ME_5XWm1Hx5lygYjCWIns45N0NrI3UewNTetUpbuRJxocu2uEW_K2Ur8qu1P3ZhtBsufr8ruWtCt-rH_GcjAjEtc3UMgyh40NJrSg9wAkovn3gm26x0Jif4OISXrbpn6PSJRhTQAJU1H6TigL33u4QDFf2_-x1xxX=w1581-h889-no",
 		    "desc": "Two reindeer with long, fuzzy antlers and shaggy molting fur",
 		    "caption": "Moose in the foreground, Little Buddy in the background. Antlers still growing, winter fur almost gone.",
+		},
+		{
+		    "picture": "https://lh3.googleusercontent.com/pw/ACtC-3en0kk6mABltXW9_oCoRn0lBH17xeGGAE4DY4u6k2er7UGW7bre8QuFjz1OFnZ_6C62NvCEtoKcEvYqE1dyw99-se0fGKVxZeNn-72vSU3civhlel2W4FC-uhc2J9RyHUQFMX0zHe9orr9NjABINfUs=w1406-h937-no?authuser=0",
+		    "desc": "A reindeer with bells on being fed from a red bucket",
+		    "caption": "omnomnom",
+		},
+		{
+		    "picture": "https://lh3.googleusercontent.com/pw/ACtC-3dIGdjpRQ2tRla9QVPZ-f6JKX4rohXDh-jxztdGAJ87RYzvlHD0b35NYAev-9m2uiGleD_sx8z85P9zhss4yijsqF8kRsd-dHIfGUyAVzgKXctSbEpHLeZ91EfC2ZbCuO-piGB1Rug8JNFCBx-hqzt7=w1172-h937-no?authuser=0",
+		    "desc": "A happy couple, each holding a reindeer, posing in front of a barn in the springtime",
+		    "caption": "Group photo!",
+		},
+		{
+		    "picture": "https://lh3.googleusercontent.com/pw/ACtC-3eQ9lWrjmCree7WwYss3lQxTYB38k40q9DdFstLktpprUzMP8LiHgt2BUaQRovtIjkDPRhKTFlJC9VS_R6YYRSRXuWvcE-5HIMByb3Guq4yWeeNKt9fzKadf3TW6FoljuOSBpctTkcyvPk_G6iP9C8d=w1172-h937-no?authuser=0",
+		    "desc": "A reindeer in a red halter looking to the left with knobby fuzzy antlers",
+		    "caption": "Professional photo day!",
+		},
+		{
+		    "picture": "https://lh3.googleusercontent.com/pw/ACtC-3dhNh0HcOfROP6n3yU4r-bFtmkixCdbKkC4wPWsepR5gGTmoenUtZaW8Y8J-Fazg30sQWpcKGJzR2NO9HugJO3Qt4U5EeQk6psMgC7xsDVFJ8jQB9RDe2goCkHZNZ4adgld0i3cmT-tzUXQ6L1_lHJk=w1172-h937-no?authuser=0",
+		    "desc": "A reindeer in a red halter looking to the left with weirder knobby fuzzy antlers",
+		    "caption": "At least one of them dressed up for photos",
 		},
 	];
 		
