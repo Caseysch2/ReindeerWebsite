@@ -2,7 +2,14 @@ document.getElementById('current-events').innerHTML = "Loading events...";
 
 window.onload = function () {
 	// The list of events (all fields are optional)
-    events = [
+	events = [
+		{
+			"title": "Yoga at the Reindeer Farm",
+			"date": "07/13/2020",
+			"picture": "./images/events/2020-07-13.jpg",
+			"link": "https://www.eventbrite.com/e/yoga-at-the-reindeer-farm-tickets-110902885516",
+			"location": "Shortsville, NY",
+		},
 		{
 			"title": "Bring in the New Year with the Reindeer!",
 			"date": "01/01/2020",
@@ -164,11 +171,11 @@ window.onload = function () {
 		document.getElementById('undated-events-title').innerHTML = "Undated Events";
 		document.getElementById('undated-events').innerHTML = convertEventObjectsToDiv(undatedEvents);
 	}
-    // Upcoming events is a special case- it'll show even if there's no upcoming events.
+	// Upcoming events is a special case- it'll show even if there's no upcoming events.
 	if (currentEvents.length > 0) {	
 		document.getElementById('current-events').innerHTML = convertEventObjectsToDiv(currentEvents);
 	} else {
-	    document.getElementById('current-events').innerHTML = "No upcoming events.";
+		document.getElementById('current-events').innerHTML = "No upcoming events.";
 	}
 	if (pastEvents.length > 0) {	
 		document.getElementById('past-events-title').innerHTML = "Past Events";
