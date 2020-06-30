@@ -8,7 +8,7 @@ window.onload = function () {
 			"date": "07/13/2020",
 			"picture": "./images/events/2020-07-13.jpg",
 			"link": "https://www.eventbrite.com/e/yoga-at-the-reindeer-farm-tickets-110902885516",
-			"location": "Shortsville, NY",
+			"location": "Registration Required Shortsville, NY",
 		},
 		{
 			"title": "Bring in the New Year with the Reindeer!",
