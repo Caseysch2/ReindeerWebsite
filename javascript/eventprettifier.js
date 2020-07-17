@@ -5,7 +5,7 @@ window.onload = function () {
     events = [
 		{
 			"title": "Kids Yoga at the Reindeer Farm",
-			"date": "07/13/2020",
+			"date": "07/22/2020",
 			"picture": "./images/events/2020-07-22.jpg",
 			"link": "https://www.eventbrite.com/e/kids-yoga-at-the-reindeer-farm-tickets-112550140500",
 			"location": "Registration Required Shortsville, NY",
