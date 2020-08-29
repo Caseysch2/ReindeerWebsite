@@ -184,13 +184,12 @@ dt {
     justify-content: center;
 }
 
-#fareharbor-embed-calendar {
-    max-width: 600px;
+#fareharbor-embed > div {
     flex-basis: 50%;
     flex-grow: 1;
-    flex-shrink: 0;
 }
 
-#fareharbor-embed-items {
-    flex-basis: 50%;
+#fareharbor-embed-calendar {
+    max-width: 600px;
+    min-width: 200px;
 }
