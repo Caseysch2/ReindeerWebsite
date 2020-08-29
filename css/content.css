@@ -177,3 +177,20 @@ dt {
     font-weight: bold;
     margin-top: 10px;
 }
+
+#fareharbor-embed {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#fareharbor-embed-calendar {
+    max-width: 600px;
+    flex-basis: 50%;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+#fareharbor-embed-items {
+    flex-basis: 50%;
+}
