@@ -40,8 +40,8 @@
                     <li><a href=".">Home</a></li>
                     <li><a href="./about.html">About Us</a></li>
                     <li><a href="./events.html">Events</a></li>
-                    <li><a href="./booking.html">Hire Us</a></li>
-					<li><a href="https://www.facebook.com/pg/ShortsvilleReindeerFarm" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="./booking.html">Bookings</a></li>
+                    <li><a href="https://www.facebook.com/pg/ShortsvilleReindeerFarm" target="_blank" rel="noopener">Facebook</a></li>
                     <li><a href="./photos.html">Gallery</a></li>
                     <li><a href="./contact.html">Contact</a></li>
 				</ul>
