@@ -5,6 +5,13 @@ window.onload = function () {
     events = [
 		{
 		    "title": "Yoga at the Reindeer Farm",
+		    "date": "09/19/2020",
+		    "picture": "./images/events/reindeer-yoga.jpg",
+		    "link": "https://www.eventbrite.com/e/yoga-at-the-reindeer-farm-tickets-117558607961",
+		    "location": "Registration Required Shortsville, NY",
+		},
+		{
+		    "title": "Yoga at the Reindeer Farm",
 		    "date": "08/27/2020",
 		    "picture": "./images/events/reindeer-yoga.jpg",
 		    "link": "https://www.eventbrite.com/e/yoga-at-the-reindeer-farm-tickets-115768614041",
