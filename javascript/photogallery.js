@@ -236,4 +236,22 @@ window.onload = function () {
 		// Return all the divs
 		return returnHtml;
 	}
+
+    // When the background of the modal is clicked, close the modal
+	function backgroundClicked(event) {
+        // Only close the modal if the *background* was clicked, not the current image
+	    if (event.target == this) {
+	        closeModal();
+	    }
+	}
+
+    // Close the modal by hiding the entire thing
+	function closeModal() {
+        document.getElementById("modal").style.display = "none";
+	}
+
+    // Open the modal by setting the display to the intended value
+	function openModal() {
+	    document.getElementById("modal").style.display = "flex"
+	}
 }

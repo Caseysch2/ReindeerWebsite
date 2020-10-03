@@ -71,7 +71,7 @@
     max-width: calc(70vw - 10px);
 }
 
-.modal {
+#modal {
     position: fixed;
     z-index: 1;
     left: 0;
@@ -85,19 +85,19 @@
     justify-content: center;
 }
 
-.modal-content {
+#modal-content {
     align-self: center;
     text-align: center;
     position: relative;
 }
 
-.modal img {
+#modal img {
     max-height: 90%;
     max-width: 90%;
     border-radius: 10px;
 }
 
-.modal-close-button {
+#modal-close-button {
     position: absolute;
     top: 0;
     right: 0;
