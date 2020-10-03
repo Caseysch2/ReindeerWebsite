@@ -5,10 +5,14 @@
     </p>
 </div>
 <div role="dialog" class="modal" style="display: none;" aria-labelledby="modal-title">
-    <div id="modal-title" style="display: none;"></div>
+    <div id="modal-title" style="display: none;">
+        <!--To be filled by active image description-->
+    </div>
     <div class="modal-content">
-        <img />
-        <button class="modal-close-button"></button>
+        <img id="modal-image" aria-labelledby="modal-title" /><!--To be filled by active image-->
+        <button class="modal-close-button" title="Close">
+            <img src="images/x.svg" role="presentation"/>
+        </button>
     </div>
 </div>
 <script src="javascript/photogallery.js"></script>
