@@ -10,7 +10,7 @@
     align-content: flex-start;
 }
 
-.photo-gallery > div {
+.photo-gallery > button {
     margin: 5px;
     border: 1px solid #9a9a9a;
     display: flex;
@@ -48,7 +48,7 @@
     max-width: calc(90vw - 20px);
 }
 
-.photo-gallery > div:hover {
+.photo-gallery > button:hover {
     background: #262324;
     border: 1px solid #262324;
     color: #A1A3A0;
