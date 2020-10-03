@@ -226,7 +226,7 @@ window.onload = function () {
 		for (var index in photos) {
 		    thisEvent = '<div onclick="imageClicked("' + photos[index]["picture"] + '", "' + photos[index]["caption"] + '")">' +
 				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
-				(index % 5 == 0 ? ' class="gallery-image double-wide"' : 'gallery-image') + '></div>' +
+				(index % 5 == 0 ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
 				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></div>';
 
 			// Append it to the list of divs we have going
