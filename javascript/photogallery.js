@@ -224,9 +224,9 @@ window.onload = function () {
 
 		// Make a div for each photo. "Randomly" select some of them to be double width.
 		for (var index in photos) {
-			thisEvent = '<div><a href="' + photos[index]["picture"] + '" target="_blank" rel="noopener">' +
-				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
-				(index % 5 == 0 ? ' class="double-wide"' : '') + '></div></a>' +
+		    thisEvent = '<div onclick="imageClicked(' + photos[index]["picture"] + ', ' + photos[index]["caption"] + ')">' +
+				'<div class="gallery-image" role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
+				(index % 5 == 0 ? ' class="double-wide"' : '') + '></div>' +
 				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></div>';
 
 			// Append it to the list of divs we have going
@@ -236,6 +236,13 @@ window.onload = function () {
 		// Return all the divs
 		return returnHtml;
 	}
+}
+
+// Populate the modal with the clicked image and then show the modal
+function imageClicked(source, description) {
+    document.getElementById("modal-image").src = source;
+    document.getElementById("modal-title").innerText = description;
+    openModal();
 }
 
 // When the background of the modal is clicked, close the modal

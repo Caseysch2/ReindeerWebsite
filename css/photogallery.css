@@ -34,7 +34,7 @@
     box-sizing: border-box;
 }
 
-.photo-gallery a > div {
+.photo-gallery .gallery-image {
     height: 300px;
     width: 300px;
     max-width: calc(45vw - 20px);
