@@ -222,11 +222,11 @@ window.onload = function () {
 	function convertEventObjectsToDiv(photos) {
 		var returnHtml = "";
 
-	    // Make a div for each photo. "Randomly" select some of them to be double width.
+		// Make a div for each photo. "Randomly" select some of them to be double width.
 		for (var index in photos) {
-		    // Escape quote marks in the caption so the modal function doesn't crash
-		    var safeCaption = photos[index]["caption"].replace(/'/g, '\\\'');
-		    thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
+			// Escape quote marks in the caption so the modal function doesn't crash
+			var safeCaption = photos[index]["caption"].replace(/'/g, '\\\'');
+			thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
 				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
 				(index % 5 == 0 ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
 				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></button>';
@@ -242,17 +242,17 @@ window.onload = function () {
 
 // Populate the modal with the clicked image and then show the modal
 function imageClicked(source, description) {
-    document.getElementById("modal-image").src = source;
-    document.getElementById("modal-title").innerText = description;
-    openModal();
+	document.getElementById("modal-image").src = source;
+	document.getElementById("modal-title").innerText = description;
+	openModal();
 }
 
 // Close the modal by hiding the entire thing
 function closeModal() {
-    document.getElementById("modal").style.display = "none";
+	document.getElementById("modal").style.display = "none";
 }
 
 // Open the modal by setting the display to the intended value
 function openModal() {
-    document.getElementById("modal").style.display = "flex"
+	document.getElementById("modal").style.display = "flex"
 }

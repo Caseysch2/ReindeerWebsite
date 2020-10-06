@@ -19,18 +19,18 @@
 		<!--Logo/nav-->
 		<div id="top-bar">
 			<div id="logo-and-title">
-                		<a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo" /></a>
+						<a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo" /></a>
 				<h1 id="site-name"><a href=".">Shortsville Reindeer Farm</a></h1>
 			</div>
 			<nav>
 				<ul>
-                    <li><a href=".">Home</a></li>
-                    <li><a href="./about.html">About Us</a></li>
-                    <li><a href="./events.html">Events</a></li>
-                    <li><a href="./booking.html">Bookings</a></li>
-                    <li><a href="https://www.facebook.com/pg/ShortsvilleReindeerFarm" target="_blank" rel="noopener">Facebook</a></li>
-                    <li><a href="./photos.html">Gallery</a></li>
-                    <li><a href="./contact.html">Contact</a></li>
+					<li><a href=".">Home</a></li>
+					<li><a href="./about.html">About Us</a></li>
+					<li><a href="./events.html">Events</a></li>
+					<li><a href="./booking.html">Bookings</a></li>
+					<li><a href="https://www.facebook.com/pg/ShortsvilleReindeerFarm" target="_blank" rel="noopener">Facebook</a></li>
+					<li><a href="./photos.html">Gallery</a></li>
+					<li><a href="./contact.html">Contact</a></li>
 				</ul>
 			</nav>
 		</div>
