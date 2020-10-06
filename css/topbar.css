@@ -37,6 +37,7 @@ nav a {
 
 nav li:not(:first-child):before {
 	content: '\00B7';
+	content: '\00B7' / '';
 	margin-right: 14px;
 	font-weight: bolder;
 }
