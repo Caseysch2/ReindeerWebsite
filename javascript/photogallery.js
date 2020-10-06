@@ -225,7 +225,7 @@ window.onload = function () {
 	    // Make a div for each photo. "Randomly" select some of them to be double width.
 		for (var index in photos) {
 		    // Escape quote marks in the caption so the modal function doesn't crash
-		    var safeCaption = photos[index]["caption"].replace(/'/g, '&apos;');
+		    var safeCaption = photos[index]["caption"].replace(/'/g, '\\\'');
 		    thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
 				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
 				(index % 5 == 0 ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
