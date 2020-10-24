@@ -279,7 +279,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3fS_RC7TGTYgR-8ReutPiW-IGbFD09qERI8O4XKuKhlBMeXOAXZh8FT1VT8wmnpt6-g3X7Sj2m_JZ-ZWyHNCqn-xEXztVSztCCsB8rlcX3IpgAEq9aWzhsF6O3HyWWndxJPfaQKKkd4a1DpiGWaDEtQ8g=w1669-h938-no?authuser=0",
 					"desc": "The frame of a small building near the entryway. The posts still have bark on them. The floor appears to be plywood. There's a hanging basket of flowers in the foreground.",
-					"caption": "While I wait for more cedar shingles, the Weihnachtshütte takes shape",
+					"caption": "While I wait for more cedar shingles, the Weihnachtshutte takes shape",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3f2YVb-eoqa478fJZhgpggDPE9LOR9IOjhMOCkEZpzG0mdVfx82hM6ilUSYHsMhuunF8XaRuxaqqP4jhOfVn-fKh9cAtzbYsPEkJM5ir0-nBGTbpO-YgCgjBku6av24X2q9dXEkjFE5kzGP0R4wQ3JR0Q=w1669-h938-no?authuser=0",
@@ -289,7 +289,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3eyFxYMfQKxy8uoYbNnQ9pefIb_6s58V5MZtv98rZF8jJeP5zaeAM2NDXr1rG4C-j1d8gSJPfugWHUG3KrSfxx_B6EgDsjumPvbBfY_Drg1L1Swn9JLw9AUA3We_8fGGi8_qzWJz1JYzO6vXiRobgFgCw=w1669-h938-no?authuser=0",
 					"desc": "The inside of a small building, showing the wood siding, plywood floor, and posts with bark on them. There is a door and a large window with shelf to the side.",
-					"caption": "Weihnachtshütte from the inside",
+					"caption": "Weihnachtshutte from the inside",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3cfsXdqFWX34Y-KIf5QTap7IW-fyE5uogjwJo9FyH-9lZ3XfiSAfdsq9t1LoL9T844gle42yVKrLm05c4r8mNtfRUgvRlpQQLVJd2hZrqy0GWQwOuy49J1uwBu7FP7CCGpEcoEgouQmkv95sjd4kWVpeQ=w1669-h938-no?authuser=0",
@@ -330,7 +330,7 @@ window.onload = function () {
 		// Make a div for each photo. "Randomly" select some of them to be double width.
 		for (var index in photos) {
 			// Escape quote marks in the caption so the modal function doesn't crash
-			var safeCaption = photos[index]["caption"].replace(/'/g, '\\\'');
+			var safeCaption = photos[index]["caption"].replace(/'/g, '\\\'').replace(/"/g, '\\\"');
 			thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
 				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
 				(index % 5 == 0 ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
