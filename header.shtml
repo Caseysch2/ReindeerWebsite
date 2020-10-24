@@ -19,7 +19,7 @@
 		<!--Logo/nav-->
 		<div id="top-bar">
 			<div id="logo-and-title">
-						<a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo" /></a>
+						<a href="."><img id="site-logo" src="images/reindeer-logo.svg" alt="logo." /></a>
 				<h1 id="site-name"><a href=".">Shortsville Reindeer Farm</a></h1>
 			</div>
 			<nav>
