@@ -7,6 +7,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="Description" content="The Shortsville Reindeer Farm" />
 
+		<!--Use the logo as the favicon where supported-->
+		<link rel="icon" type="image/svg+xml" href="/images/reindeer-logo-no-text.svg">
+		<link rel="alternate icon" href="/favicon.ico">
+		<link rel="mask-icon" href="/images/reindeer-logo-no-text.svg" color="#ff8a01">
+
 		<link rel="canonical" href='https://<!--#echo var="SERVER_NAME" --><!--#echo var="SCRIPT_NAME" -->' />
 
 		<link rel = "stylesheet" type = "text/css" href = "css/layout.css" />
