@@ -194,3 +194,7 @@ dt {
 	max-width: 600px;
 	min-width: 200px;
 }
+
+#fareharbor-embed-items-special {
+	flex-basis: 30%;
+}
