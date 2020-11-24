@@ -195,6 +195,12 @@ dt {
 	min-width: 200px;
 }
 
+#fareharbor-embed-calendar-special {
+	min-width: 300px;
+}
+
 #fareharbor-embed-items-special {
-	flex-basis: 30%;
+    flex-basis: 30% !important;
+    flex-grow: 0 !important;
+	min-width: 300px;
 }
