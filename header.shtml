@@ -22,7 +22,16 @@
 	</head>
 	<body>
 		<!--Big green banner for announcements-->
-		<div id="announcement-banner">
+		<div id="announcement-banner" style="
+		    text-align: center;
+		    padding-left: 12%;
+		    padding-right: 12%;
+		    background: #309e2c;
+		    color: white;
+		    box-shadow: 0px 5px 5px grey;
+		    z-index: 1;
+		    font-weight: bold;
+		">
 			<h3>Win a chance for a CHRISTMAS DAY Reindeer Visit!</h3>
 			<p>Win a chance for a visit to your own private home (or a home of your choosing) on Christmas! The Shortsville Reindeer Farm is conducting a raffle,
 			the winner of the raffle will receive a visit from 2 of the boys on CHRISTMAS DAY to any home within 100 miles of the Shortsville Reindeer Farm.
