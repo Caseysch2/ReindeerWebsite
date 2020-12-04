@@ -1,3 +1,18 @@
+#announcement-banner {	
+	text-align: center;
+	padding-left: 12%;
+	padding-right: 12%;
+	background: #309e2c;
+	color: white;
+	box-shadow: 0px 5px 5px grey;
+	z-index: 1;
+	font-weight: bold;
+}
+
+#announcement-banner a {
+	color: white;
+}
+
 #top-bar {
 	background: #F2F2F0;
 	display: flex;
