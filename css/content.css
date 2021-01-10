@@ -1,8 +1,10 @@
 #content {
-	width: 75%;
 	align-self: center;
 	padding: 20px;
 	padding-bottom: 3em;
+	min-width: 75%;
+	max-width: 95%;
+	width: 600px;
 }
 
 #content.content-columns {
