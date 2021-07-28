@@ -7,6 +7,10 @@
 	width: 600px;
 }
 
+#content .spacer {
+	height: 2em;
+}
+
 #content.content-columns {
 	display: flex;
 	justify-content: center;
