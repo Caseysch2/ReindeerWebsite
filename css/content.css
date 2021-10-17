@@ -177,6 +177,10 @@ a.button-link {
 	margin-bottom: 1em; 
 }
 
+.list-with-image > li {
+	margin-bottom: 1em;
+}
+
 .list-with-image > img {
 	max-width: 100%;
 }
