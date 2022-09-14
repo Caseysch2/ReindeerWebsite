@@ -4,7 +4,7 @@ window.onload = function () {
 	// The list of photos, grouped by section (all fields are mandatory)
 	photos = [
 		{
-			"name": "Building the Barn",
+			"name": "Building the First Barn 2016-2017",
 			"photos": [
 				{
 					"picture": "https://lh3.googleusercontent.com/AIm3oYjhxEfFk8s3kA_hFvfzWJW4Q9RLl6u4X-QvcSBtqQ4Aa7E068dhaJ1MBHaUbMhjudVymQfrH-TWZu9Lax_WFogRkWTa4bw8N7nzW0UCjMAEaCnUEt-lBQCmYJS1Bm_dHiUM5ztOFzbze5Zdoj1Y7uSiSMteBl4IzrsjPMWxxz3bLeE9stSTHijw5afE56DGZ8bjaK_WyD4so7tsQ9HzkdeUpO9t4xxkmXFsKfS_QA03S_u09AaV6OIHAp28m9RwflvLbSbjtERzST5bxiL3b-A6EYomWnAJWHNL3S37tCjq3b8KR54OaRwKkcI444P456Kj37tFmSV0RqQFOTQmXdx_pggbvKVDIGua8AIx78OL_85FO4ryqH3eqBPgt3s-3UWa4xSzHqrZeNF8nGbxWdBFPJzvDBWPUCYvmcpMXHRzf8hr1KglBgmlwtdB5gRDI18fy5py_ddQnP6ucdYjxREz7m3hu3yqzWy22zcA45Kapsr3rGQraIPLZuM6pNAYFGFPRe_RfW3QAMKnvMBOuOvu0Fd3402Xw_E7UgnCbRfUZaSnUb7xP6GLzLyNch50ZqlnM2rSwvi4RRExFVFLhxTBzWL00EpUDrLL9cwB8ziCReBx0vougDSdaTq2BP673EBrx2z8XOurGkE_jb2AFenk5x_rMmikdGoT3VPaOIqNosOqY8pKmFOPSUu42NPB0IFRVm2VxDu7JNSNr45xjdWg1n1UigATFit39pJwAzMg=w1250-h937-no",
@@ -84,7 +84,7 @@ window.onload = function () {
 			],
 		},
 		{
-			"name": "First Year with Reindeer",
+			"name": "First Year with Reindeer 2017-2018",
 			"photos": [
 				{
 					"picture": "https://lh3.googleusercontent.com/Q5Qryv5i_lZrhUGefEfHQ51VD02DmvPdRy1Glf6Q6rgN766IxfVmH768315i9zw9CvV5AOjed1YhfxexmhDpwEAU4sZ_8DPItWb-PeJc1h6uLMsS1JqLWE9DG80la5Cz0LG2dU88MOX-Drul46z4G4sgbiN0xvkNcVa9cKVLE47Rr0EGdQKLxIm4Sluxw3nz6Mo2qWdaPlLKMX0zWzxrIMUT9AQd-evJj3r5xUZv1d_lWQiKxMxfLHn71vKeIK3zu7S-1pmWx-HvElmN4vRzfzManSThLRjQMTVcF316SRniiz9dWeqbvUTieQgBuuaJHYLEp5brKwRoku4RLZnc2pKwv7ZBCFSHd--3CHxBsL766uugcfEOeCd_tDJnMnINhCcxIun_HJyzP3_GTIoPhuPrWw21qcCjJI6wNgbAG_uEctOljwjicLbp9WmBl1KzoUHKUaVs_4wm7l4SkPzl5Uzrez_KgspmEs9DPLG0FspVRD8zfdLCIUNB9A86Cvmy30-yvvUqOOtNK5LomlUOA7nguB7TToBHsfv3XMqNA7rU-B4xJow-nSt5zb5dFffVM6O0nqBtPoD865y8WT68ZuHD4W64WBKh-tWIDb0-ms-m7YvY4q2FWMCpQutVXJPCSMgsRCpd_SZsuTUr6-5lgYC9x1OldXbLGgD6LsEZ8riiwcJzaRVe01UKU18jziXlQnTOhkyTyajz-Uu7apaWWh_wE0M_h0D8CgCiHFz11AwJKpQ4=w1184-h888-no",
@@ -259,7 +259,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3epxAQ_RTpJxZkSnf_IPeeamEkuGJMbOYXFdKZgVeyt227v7LVGRayeq0Vem9HKvR1wM3Fqn0Ty__NTiBv1NgtwkjR9J6Sc5Rn9Zp1Pf-i15suQyePtZ1AQOaI2rql9vN27a1hH0iEqlLWSQPNvPdpMmw=w1669-h938-no?authuser=0",
 					"desc": "A side view of the beginning of the new entryway. This gives a better view of the timber-and-rope contraption involved, but I still don't know what's going on.",
-					"caption": "Learned how to use a \"Gin Pole\" to lift 32 ft beams",
+					"caption": "Learned how to use a \"Gin Pole\" to lift 32 ft beams for a covered front entry way",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3e7aP0Vlx7J4sjL8OcMCc9wTOBeOY7cMVWz_ueLJw6mC_1aYmSr1WwoLU5w3TYSspkveeoe6Dkx2IAVuzLiLz2_cuen9_RGHHwkJ8iryuz7VssIgyop-2kGBezB2fk67lSOvwUA0R2eQ3Fhq2nOjALegQ=w1669-h938-no?authuser=0",
@@ -274,12 +274,12 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3esq2rwMyS1BwkcYOyVP0ZzVbDi9obF6nuLuagzShSdNnYk4Dr1NQJ3jXyD7KfJyAOj_6Fn6iAdN5Nj2TyRPj6USZfHvJ2cWg6rcmXpRD_VsC4z1Q9f1Lo9A7mog5OkOxpPpIG9r37k30ZYqqdEOd2PGg=w1669-h938-no?authuser=0",
 					"desc": "I was wrong, the previous poles that were going to hold the roof have been removed. Vertical posts are added to the horizontal frames and angled rafters are in place, ready to hold the roof.",
-					"caption": "And the frame is done! The Emerald Ash Borer killed lots of my Ash tress but the Ash makes good rafters",
+					"caption": "And the frame is done! The Emerald Ash Borer killed lots of my Ash trees but the Ash makes good rafters",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3evvPm90tmSKoe2O1ma161AVtDOhNUzkVTHpDCrWGf8NjkFkGjDCoGN7mmyjcQNYDdxPz6vjU0ODFyNwXnB8Uh4P9IrsOdM3c-_J35tUoau0Q993Pku7iUvXHKbkEt9vOB5jCrGYkvwFTcPGnVqMEVF0A=w1669-h938-no?authuser=0",
 					"desc": "A side view of the in-progress entryway. One reindeer is grazing and one is eyeing the gate.",
-					"caption": "The big boys checking out the new entranceway",
+					"caption": "The big boys checking out the new entry way",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3fS_RC7TGTYgR-8ReutPiW-IGbFD09qERI8O4XKuKhlBMeXOAXZh8FT1VT8wmnpt6-g3X7Sj2m_JZ-ZWyHNCqn-xEXztVSztCCsB8rlcX3IpgAEq9aWzhsF6O3HyWWndxJPfaQKKkd4a1DpiGWaDEtQ8g=w1669-h938-no?authuser=0",
