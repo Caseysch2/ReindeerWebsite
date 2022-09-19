@@ -221,11 +221,6 @@ window.onload = function () {
 					"desc": "A baby reindeer grazing. You can see that one of his antlers has a funky spike that is flat against his head.",
 					"caption": "Ragnar, the Viking, with his wonky forehead antlers",
 				},
-				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3fs0VKIeDntJaq_EeVglg2b3z86X-N8U5QewafQjetVdI5A6nR1tHO96Axo_n44d-E6UjATEe8Gum0k_XuouT3dxlCfOmxZtZr9D5mM07attuLYE_QdLsmRAFdX7kbQsldqldignprDu4qWHiiwX1IDZg=w1669-h938-no?authuser=0",
-					"desc": "A man leading a reindeer that is hitched to a bright red sleigh with two children inside. The reindeer's tongue is lolling out of his mouth.",
-					"caption": "Learning how to pull a sleigh (and pose for pictures)",
-				},
 			],
 		},
 		{
