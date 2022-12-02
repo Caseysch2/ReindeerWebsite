@@ -96,8 +96,9 @@ if(!isFromOwnEmbed(message)){return;}
 var height=message.height;var iframe=document.getElementById(embedId);if(iframe&&height){iframe.style.height=height+"px";}};var open=function(message){if(!isFromOwnEmbed(message)){return;}
 openLightframe(message.url);};var close=function(message){closeLightframe();};var ready=function(message){
     
-    // This minified javascript is nabbed from Fareharbor, with only the line below added to hide our "Loading Events..." text when fareharbor is ready. Mostly ready.
-    document.getElementById("fareharbor-events-loading").style.display = "none"
+    // This minified javascript is nabbed from https://fareharbor.com/embeds/script/items/shortsvillereindeer/?full-items=yes&fallback=simple&flow=451580
+    // with only the line below added to hide our "Loading Events..." text when fareharbor is ready. Or mostly ready.
+    setTimeout(function(){document.getElementById("fareharbor-events-loading").style.display = "none"},1000);
     
     var iframe=document.getElementById(LIGHTFRAME_EMBED_ID);if(iframe){iframe.style.opacity='';}
 var lightframeLoading=document.getElementById('fareharbor-lightframe-loading');if(lightframeLoading){lightframeLoading.className='';}};var analyticsReady=function(message){var frameId;function enable(){notifyFrame(frameId,'fareharbor.analytics.enable');}
