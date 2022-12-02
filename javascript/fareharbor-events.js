@@ -98,7 +98,11 @@ catch(e){return true;}},true);var isFromOwnEmbed=function(message){if(createdCar
 return message.embedId===embedId;};var resize=function(message){if(staticHeight){return;}
 if(!isFromOwnEmbed(message)){return;}
 var height=message.height;var iframe=document.getElementById(embedId);if(iframe&&height){iframe.style.height=height+"px";}};var open=function(message){if(!isFromOwnEmbed(message)){return;}
-openLightframe(message.url);};var close=function(message){closeLightframe();};var ready=function(message){var iframe=document.getElementById(LIGHTFRAME_EMBED_ID);if(iframe){iframe.style.opacity='';}
+openLightframe(message.url);};var close=function(message){closeLightframe();};var ready=function(message){
+  
+  console.log('ready2');
+  
+  var iframe=document.getElementById(LIGHTFRAME_EMBED_ID);if(iframe){iframe.style.opacity='';}
 var lightframeLoading=document.getElementById('fareharbor-lightframe-loading');if(lightframeLoading){lightframeLoading.className='';}};var analyticsReady=function(message){var frameId;function enable(){notifyFrame(frameId,'fareharbor.analytics.enable');}
 if(!message.embedId){frameId=LIGHTFRAME_EMBED_ID;}
 else if(isFromOwnEmbed(message)){frameId=message.embedId;}
