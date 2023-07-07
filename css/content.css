@@ -37,6 +37,16 @@
 	clear: left;
 }
 
+/* On small screens, just center the div instead of floating it */
+@media only screen and (max-width: 630px) {
+	#content .float-right, #content .float-left {
+		float: unset;
+		max-width: fit-content;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
 #content .content-section {
 	overflow: hidden;
 	margin: 20px;
