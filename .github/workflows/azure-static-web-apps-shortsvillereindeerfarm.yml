@@ -20,13 +20,9 @@ jobs:
           submodules: true
           lfs: false
 
-      - name: GitHub Script
-        uses: actions/github-script@v7.0.1
-        with:
-          # The script to run
-          script: |
-            console.log(context)
-          # result-encoding: # optional, either "string" or "json" (default "json")—how the result will be encoded
+      - name: Add header/footer to html files
+        run: |
+          cat header.shtml index.html footer.shtml > index.html
           
       - name: Build And Deploy
         id: builddeploy
