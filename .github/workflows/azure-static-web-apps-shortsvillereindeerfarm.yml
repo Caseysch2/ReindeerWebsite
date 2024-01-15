@@ -22,7 +22,7 @@ jobs:
 
       - name: Add header/footer to html files
         run: |
-          sed 's/<\!--#include virtual="\(.*\)" -->/\ncat "\1"/e'
+          sed 's/<\!--#include virtual=\"\(.*\)\" -->/\ncat "\1"/e'
           
       - name: Build And Deploy
         id: builddeploy
