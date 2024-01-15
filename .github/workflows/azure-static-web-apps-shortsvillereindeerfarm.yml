@@ -22,6 +22,7 @@ jobs:
 
       - name: Add header/footer to html files
         run: |
+          cat header.shtml
           sed 's/<\!--#include virtual="header.shtml" -->/\ncat "header.shtml"/e' index.html
           
       - name: Build And Deploy
