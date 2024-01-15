@@ -22,7 +22,7 @@ jobs:
 
       - name: Add header/footer to html files
         run: |
-          sed -i ':a;N;$!ba;s|\n||g' footer.shtml
+          sed -i ':a;N;$!ba;s|\n||g' *.shtml
           HEADER=$(cat header.shtml)
           FOOTER=$(cat footer.shtml)
           sed -i 's|<\!--#include virtual="footer.shtml" -->|'"$FOOTER"'|g' index.html
