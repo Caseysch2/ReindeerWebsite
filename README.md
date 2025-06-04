@@ -17,13 +17,19 @@ Is a Google form embedded in the page. It sends emails with the form contents wi
 function onFormSubmit(e) { 
   var values = e.namedValues;
   // Filter out weird duplicate triggers
-  if(e.values && !e.values[1]){return;}
+  if(e.values && !e.values[0]){return;}
   
   var email = values["Email Address"];
   var name = values["Your Name"];
   var phone = values["Phone number (optional)"] == "" ? "no phone number" : values["Phone number (optional)"];
-  htmlBody = "New message from " + email + " (" + phone + "):<br>" + values["Message"];
-  GmailApp.sendEmail(email + ", mike@shortsvillereindeer.com", "Reindeer talk with " + name, '', {htmlBody:htmlBody, 'from':'mike@shortsvillereindeer.com'});
+
+  if (email == "") {
+    htmlBody = "New message (no email provided, phone " + phone + "):<br>" + values["Message"];
+    GmailApp.sendEmail("mike@shortsvillereindeer.com", "Reindeer contact form submission from " + name, '', {htmlBody:htmlBody, 'from':'mike@shortsvillereindeer.com'});
+  } else {
+    htmlBody = "New message from " + email + " (" + phone + "):<br>" + values["Message"];
+    GmailApp.sendEmail(email + ", mike@shortsvillereindeer.com", "Reindeer talk with " + name, '', {htmlBody:htmlBody, 'from':'mike@shortsvillereindeer.com'});
+  }
 }
 ```
 
