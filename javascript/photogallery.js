@@ -5,7 +5,7 @@ window.onload = function () {
 	photos = [
 		
 		{
-			"name": "Photo Gallery",
+			"name": "Photo Gallery (click or tap an image to make it bigger)",
 			"photos": [
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNYExN1crFmDNaP5t_3tqHgEMKFbYOqzD2l0p4UCD3ASNxAfHW3QYdQgmo69kT9QOX0v2zu2b_ZidphhORsaQgyTGdX0KTiVf8HsVo4nQLLqLcAOQCwY4-ZOmYNqBN-xSGz1eRjC7rLLV6IfsGasRcA=w652-h869-s-no?authuser=0",
