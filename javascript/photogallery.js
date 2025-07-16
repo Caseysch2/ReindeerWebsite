@@ -4,7 +4,7 @@ window.onload = function () {
 	// The list of photos, grouped by section (all fields are mandatory)
 	photos = [
 		
-		
+		{
 			"name": "Hanging Out",
 			"photos": [
 				{
