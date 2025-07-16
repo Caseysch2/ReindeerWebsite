@@ -4,42 +4,7 @@ window.onload = function () {
 	// The list of photos, grouped by section (all fields are mandatory)
 	photos = [
 		
-		{
-			"name": "First Year with Reindeer 2017-2018",
-			"photos": [
-				{
-					"picture": "https://lh3.googleusercontent.com/Q5Qryv5i_lZrhUGefEfHQ51VD02DmvPdRy1Glf6Q6rgN766IxfVmH768315i9zw9CvV5AOjed1YhfxexmhDpwEAU4sZ_8DPItWb-PeJc1h6uLMsS1JqLWE9DG80la5Cz0LG2dU88MOX-Drul46z4G4sgbiN0xvkNcVa9cKVLE47Rr0EGdQKLxIm4Sluxw3nz6Mo2qWdaPlLKMX0zWzxrIMUT9AQd-evJj3r5xUZv1d_lWQiKxMxfLHn71vKeIK3zu7S-1pmWx-HvElmN4vRzfzManSThLRjQMTVcF316SRniiz9dWeqbvUTieQgBuuaJHYLEp5brKwRoku4RLZnc2pKwv7ZBCFSHd--3CHxBsL766uugcfEOeCd_tDJnMnINhCcxIun_HJyzP3_GTIoPhuPrWw21qcCjJI6wNgbAG_uEctOljwjicLbp9WmBl1KzoUHKUaVs_4wm7l4SkPzl5Uzrez_KgspmEs9DPLG0FspVRD8zfdLCIUNB9A86Cvmy30-yvvUqOOtNK5LomlUOA7nguB7TToBHsfv3XMqNA7rU-B4xJow-nSt5zb5dFffVM6O0nqBtPoD865y8WT68ZuHD4W64WBKh-tWIDb0-ms-m7YvY4q2FWMCpQutVXJPCSMgsRCpd_SZsuTUr6-5lgYC9x1OldXbLGgD6LsEZ8riiwcJzaRVe01UKU18jziXlQnTOhkyTyajz-Uu7apaWWh_wE0M_h0D8CgCiHFz11AwJKpQ4=w1184-h888-no",
-					"desc": "Two young reindeer laying on the straw in a barn. One of them only has one antler.",
-					"caption": "Unicorn Moose and Little Buddy, Dec 2017",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/AH6MtUs8E-8XBJ-cJKO5yMV3WSW_SN3mOSt2mSVml3hUWm8dMN2qgrDnzexNGuiCKUsZ6rffkERVuf65jDnY87PNbR80ZTkUtGppXgnlL16mhFGeyaq10yrRV3E7iIrx9hp80TB-UF5-PJodhpB51vfkAdkB7lKie6K_z8CnDTOsCjqgvUIaPuwOoGR3QiIV5uhWYV0jDQyHjFk-Byc_WK13g0sIcRNQ3ZrA-919btSku5wEmHrtUJ6ssMqpXQBzXM5UUw5hCPx-Vj0nPZyUxDi5fkGE_F85Cwi_qjgMqJG4w__8QaYQBT9QYOapzDN7y8RmwlKr48aA8L0zr4hEuNYHAU5-K03gyZM7dEaVWw6cqUcoepGIDRd5q3VgBTtn3vYuDdOhlsDBsdemXbbslV3wOAFEzcYmpgZyvONxe5I5GCT3p4murU0FoXQs0CrfED560C7uouxLRZ_RIgWRyK3bHB5DufdMFCVWiLSCRrqGvjOvBuZyeAA6wqwz0zQmWqfy_4LrRTd8tGlBsuqqoSMvOF9K9jg7QcxbSeg25BNM-aa3S45epHm5URMO8vmz3NyRZuIO8ZbM78-t0aUnSMxXqLkYklSszfpdwO6BMTWJ04QL7Pefit8k-r8hmFmpziddw63SHy-StUmO5yfUXhX4nFgEA2AYHm0ruzzR_5vBr7mb-hFLo9Ru4OMEzI2yA3tF4myujGXZLtkm0D9QIDxga0AQws2W-ADhdwO_Um2Tybz8=w1184-h888-no",
-					"desc": "A cheerful looking person holds the head of a less-cheerful looking reindeer.",
-					"caption": "Dr. Kelly comes out to castrate the boys.",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/l8A3N0bvADJCFSrVy-KI4Vq46wEb2glr2n8e3zE0NvbEnkwjgPi6HtBbMA3KcnoAqldgZ4gdkBZSjZFxD1OzIyctBprV1ephzz6ZJ6SqQ8ryVOzbSeTZ9Jclxx5AZkcoo2QiRdKUIjx4DZkhiID-_0WgG1zEJ2kcG-FpKayJo6Ayc3PKIR31Btf2LN8YH4HtLWBaDVhJzE8ArZR-SlIH9P9f9wDdshMectrRKMbjrswaPRmZPtOVmN2kON3Owcd955m4XXOjIAQ_GUR4sP8sNiI-OWYLsV3KMKYS09hCsEzetnax1kK24r4qS2vAe-wWxnQ9mWHANIkZ_Gf0AHmQBXtJ-47NGWuDLJHAooj2VwBFvSFdpt6RO-qfQsoE-MOAeA_-gJ50lJ8h61t4RYg1dSaFIw86zPwEgsVyFYshC4OcsHLLTvmCLAzU6Zl3bJgsYnYy_MnLcJBkEms1CdqjW96yfGGHs7ywepHwwCe6QAHCCx5TwxEwo_07LgZIPzoChwq5eDgEnnkL51dClVoxdd5lT66FwzwaVDmUFXQqr_Qv-ygYsd--Vpz0IBp96ENvXchfKNd66-7oe8FSew55CcslAMt8mGwi-BHSbqbUEd7cnUFzY_ZwXmdNbzsQpr_uHPa5Ltg0ybdWu-R6Db2CG_mOmZxl3SPdNPXllc3dS1ep_QwUFwdAHciwo2DVbXRGLqqZBFOYIfOaN5mEtuMC9EQl_xvcoPuy4xxl3Eb0OTEx_q_I=w1184-h888-no",
-					"desc": "A man holds the halters of two reindeer. Both reindeer have stubby, fuzzy antlers.",
-					"caption": "Spring of 2018, their new antlers are growing",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/WSqRIWvYVG_CXQbdI7-KamxD-XGtHa6uLyvJJon4XLQdtvHq-DXErfNcgL2AL3_QbylupBKqttsb6QdHVe0TIMWdJ_3SKDgBgzbvaZh3SpGrhMVpmgm7PNAIdA_e3Iuevc2SlelRoXjhaM3wtI9Hnlz1hFccKhKPvlKzKb1vOfEj0iauoRRY_8DJEEmiDdpKnJwmYopR0H6HTqu9A906O8Inh15-YzJfa1ClMsPZToYRPQt4U-d-gt_lTYx4n0o3Re4jPCbB7StODkcu-4dd74Tb5BVo-45ZZWc1CTk8paeVMgLsRCfP7-iIBK5AGnMnH8slUa6RVFn14uO62uFl407Jd2uBvjgolMa0T9ZE0yhkuNFzAL0UXh1HQViSqKs-AixGpwO458EAABP-654Bs8CaVf8VvKO-ikN8JyF8jwuenIBKWB38PuSiEIB8mfkC8lQgsmscT9jwKPsut3v2066TBn7faiID2Sf_hGsR1CWcEQOEsZabFuWPT-2grA9oAijiLPxvC0T8DKstneLPoHS8hMw4zHeGu7MIwSgzG0qwiezFUklgzI3oGgrcNGE_6dd_HEMd6Nzrf6IkSJijHbnBXugFmVvK8AVo2GLKIkUIWbVuKZgo0GsBqIF7GKlH1fdsLub1mFYN7FKTSYg4erzQhb-KunDRx_RPTlYkdsTnPfVXoEvs3CYFG0J5wyOFt--Q7-5UrrLJz6oUlCJnOlyVzOW8QqsUkg4jAXyUHv2qO3yl=w1184-h888-no",
-					"desc": "A close-up of the stubby, fuzzy antlers on one of the reindeer.",
-					"caption": "Amazing how fast the antlers grow, Little Buddy",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/B0f51cShkvjVafAro9efXk9tdANV8CQ2jHK5NX8uPomKBiTl-naZa8xFnTxLN4M-hj_fcnq9eSKevAUNfG_pz9jVNeE2zc1-uqTeUlCMpZ--S1Gktqxo74OYuZF_bDGtybnV09p52j7BemFtcFfEo23FOLF7IUN51Q2J18p7W2ZOQ-GdQR01-MEEq3CSGbtufhESl0QG67tg_cAE_aoc3ugFoX_hNy92iDA9N3r9pfgW2zuwy243XEXRj6lD3Mx4yauereT3IpKpl7ZBlCOeuKFWt_whhENrgKTHmtXAhc-gpL1il-l70zCfSbZ7jnB1danS-spIaGQ3QF56scTKRGIvTZBDOLoo5c2uibbUiIMMr4qZr69cQU5HLSrU1FZKS9g4BKsYAF1RbF0KhU2ryOT7YwJ5Bhfzqmzau5rrEUdSCiuW7LlrQe8M-aIYFsvO-peeiL9LNuvMk_yMszwLJQWjkYgEgKFH8_3gK40kMW0dhWLUr3v5pTg5FNmHgJL169op9_0C1OcItQTVtCVPIafwZZ_WfOhs9jxzYGPrG9GoAqiAmdDCVN9yVWD-z7ngO35afTyyK24qCejljt9LYmu9qKrVbYmbGyEyx_svfF3_hnBKGEH-b5SlG16bjYfxw0OuhQM1RLUY_VVXN2KGT6xftVtM4_GQ3Ma5uqsdRBpMiyBm-BAtn4BB037nVXJgL-ZuNenyjZjxKMQSn783GP04skzmP5IJ_cY0OIr1Jd2Nyf6M=w1184-h888-no",
-					"desc": "A close-up of the stubby, fuzzy antlers on the other reindeer.",
-					"caption": "Moose is a little behind in the antler race.",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/xBgJ-c2Av_0JggM9Js3dowo1mr9HOsfMDd4eVZ7VDp2LidSBkEPBDkU6WyWmbNMunD1468NdJZQpnCSCHYanColODJIZm8ItIFL5eYE9dwyUDB3FMlZ5L25K7VX9yoobaZ25EZuPuDjn4X48eoIoVRjUnIpandSQu_T6HYKKD4blkYthpa0faes01lxJGIl598cizleMA7IhfeLYh3UJNSLgivlEc8FY4aKW_siKqXDkkgn8mK5qFvSNN7a7tdKvpBJAfGwhyCqjhtFMoaksA8JOXh-Lnc3pmD3uIlWiwq9vJ_8hEmbxtfWa7_RuL5WB3AtPsdXilgwopM_Mq2q4LbU5k_lhUT2u8jPEg3BVMAPF9Z0ofl4S0oGJoIYB61qCzg8xrD8PWCnyDcF-EZncBUGYh6Gb856IBjGCpf17MWfK1nhFqqhidYh_URCR1uYzFme3h1RCdA3tHeFUeFScmt_-q28qjoFH_Pt3rGeEJNnAMbNbr3UcB384B1wnfxnQYpDqM6nI4lub2YlwSn-M51gZoRn1rqpXtRwoSRcYt-wjrP3Gdiz3j1LA4E0oszYervct9jT4WvEcx57ME_5XWm1Hx5lygYjCWIns45N0NrI3UewNTetUpbuRJxocu2uEW_K2Ur8qu1P3ZhtBsufr8ruWtCt-rH_GcjAjEtc3UMgyh40NJrSg9wAkovn3gm26x0Jif4OISXrbpn6PSJRhTQAJU1H6TigL33u4QDFf2_-x1xxX=w1581-h889-no",
-					"desc": "Two reindeer with long, fuzzy antlers and shaggy molting fur.",
-					"caption": "Moose in the foreground, Little Buddy in the background. Antlers still growing, winter fur almost gone.",
-				},
-			],
-		},
-		{
+		
 			"name": "Hanging Out",
 			"photos": [
 				{
