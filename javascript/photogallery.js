@@ -271,8 +271,8 @@ window.onload = function () {
 					"caption": "Well, never quite finished. Added a front porch for Ranger, the new statue from North Pole, Alaska",
 				},
 				{
-					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPeepyG3pXvNWAlm0PGioECQOlmI7iV9D0raYwgWPLWaEeUeykNCxR-1oaW14owrLPre9SjPrdCi65dq60bJS57B39LtKR1aMI3JQ8gRteRNEzDL0SZDJWSfSlT_DeDRjuV_dlTmSyBe0FiM2cH2m7m=w1159-h869-s-no?authuser=0",
-					"desc": "A gnome made of cedar branches with a potato for a nose stands in frong of a barn with christmas trees, a wreath and a welcome sign.",
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPwCNTBel9pTUtntUrCMva58UocKHckI_ZzQmrDNnKWrjLrHVvL0rBu0hZmsyC6bmGge_xz00xV1BssT2vNgOIjhml0sYgbMwUMG5aJTpPNoLanXxZvGRc0KItxP6r_G-1bd-5Zl04D54eW6WJL9LTY=w577-h869-s-no?authuser=0",
+					"desc": "Two reindeer in a corral inside of a wooden barn, with a fireplace and sleigh in the background.",
 					"caption": "And then added another section on the back, to accomodate more guests for photos by the fireplace, feeding the reindeer, and enjoying the festive atmosphere",
 				},
 			]
