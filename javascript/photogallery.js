@@ -184,19 +184,9 @@ window.onload = function () {
 					"caption": "Sides are next. The lumber from an Amish sawmill. The timbers are all from our property. Cherry, Oak, Maple",
 				},
 				{
-					"picture": "https://lh3.googleusercontent.com/jojpffqulojqdDaHiqZrtS1_3MTbOXBH1IwNKZwIjexn9V-cnQdEj6DHudTMICoDSNrFdLDdXMQ8UKRGq_OJurzvXSdYUXxBE8SHQk8p0gzJH6dUlxBAYiKQbn9Op5-hqM86zgx01yLKFTj9iCfM5W9enA9_-72a8Figz8Ytv6hpD1QMHBzGa94ZVSoiyvdpTPpysGNy9dXii100fccseEzu6aBShpZv7UkE9iUKacUiFOGDQvdk9NdxTp_FLOfilA6NpigriuXL2GXa2X4rxh_ECQW6lO4FwaZt60cGDGPPuSTlCZiAxeWa5YMFHb00-oJUcHHbYJTxCrx2R6bRF5VdJGCDArsg5mCxpr2BUnN5n9zW32njBo8dtgY2S3ekrdDlFVm8DvGu2j8YN6y_X1sCgHv5z7bgD3NHjj4tnbhxpoh2pkH5WfFylsPJK1QnoDffyOFmnIeVyTot0fNrXRZnbpte7JyN3lZ10H45S3GdqqggpobkbOZLvmBCMimhZLfQluzfTmLdg9dCn31VWqrstl9kRjrPKjmKM-039UK_i3apH_CL5E5qvnV0Q3VSjA03YJ_QTJfoI2pIsYIzPt3-0-xxW7pnoGLyjsq51Qz_2eNLoqWmp_Vs7jUwCUMrGR8wBhaPcvR92ZtAkJXFRAeyw4ee0LTSEflreN2iVNY44WCyQHnZmgwWYK-Unm8WLL5ZPabJcQOl5UIiRkNeI1992wZnWtDh1YU7bgywoM_XD9Kn=w1250-h937-no",
-					"desc": "The frame of an octagonal barn. The incomplete roof is made of eight sloping rafters. All of the visible walls are complete and made with vertical wooden boards.",
-					"caption": "Starting to look like a barn, or a yurt.",
-				},
-				{
 					"picture": "https://lh3.googleusercontent.com/gWnvY8HB2sLz1mn6rldtL6BporasZ6oPTmt0mJO70hJkuinbjBC5KFMxJlND3QBrjX8VKqIDTct7P5fKuc2b9rKJnFtVaVB7-yB49V83VxVMjKDxfwjNHOBNSWL-Fx9eMZjwPzYqSnKM-ZBcGPBI0G1ozh19oNmcj3z1TUKjZJLamOJVrU3tGSEmX_yRlgUDu955CmsMR8EeS0FCVI02-J_DxT2z6gYhvvJAnzOyZy4nF4MnV4TUY_FNBTJC6xKUZsLFL0otS1gZsTUkdLdt0-W50yy_pid8M19MShn65iWnnw8NJ2uP6dRpCdgR6pgXjotD9v7UAU1wrrUIEt2Hf3X2qV4MjNh2YiRcqjCe5JF9sRhOPS52qxINpS1We53KqyZDmQAa3nz0GJBO1lNyECWRiv-B3siYwTV4mQ5q5KAsFnoQcU-B6aKEdp9R2Bjff6t8rDLaxIy5uyKF_pxyjL_0hhue_v8BeikKo5ZHknOvAXetHDFroviLXRdyuDAH5fawyu74C7uTaGNvsp6RmWfUribh-4FPeUztUTcVioErEciQk1lhs6cn_PCXlWQhVQJ3gqE8Tr7HRqoisv7R2H6gBT4H6doLjSJCfUhikIy8vwqHQ2pDip-5Ym8r0WvtXqOPZltxRIxHN0xHdqUO30ZWOo7dg1j-nRXKTZo8cRNY67oGU9sAJUt_LwKxTAAYiCSjFQ8njyhniHz6YcebZ3FoEz5ZiQq6EIyK_R7eTvL0KydX=s937-no",
 					"desc": "A picture of the barn with sides and roof nearly complete.",
 					"caption": "Waiting for cedar shingles from Maine",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/svI8KSBCHRI6W3XXhjticJ1xd1akoVwtYTxfgO9PAvTPoaDznRTdqE7kwfYjBxiUYSa1AosAIXR7zM-jA8N7VGt1wig3YDYErZ4Uo1EVayFA5w653RF78kzYUWgxln57xREgnraifvTksFJKPIhTwfv5IvwEjrJ6J0aCKxok6_XWFBHaa3guvU1i0ZdnICiZjY-QbEGuljIaDGkwMEoGsKfwAx3RSMOwld4Y7hf26I4zOyESA5JbvzdC7CCQ4UaEF2n3TZhlbULYcsp_andkHd8bGtt61Dab2gIPeCBzu6qXt7weGZcSKah1l8xEupeiSV9Ta3ovxoeeJ6_7uOdmhyPIeah6o4acoxV81WjfHrV7FDR985G6o4MR2ztJJx1RJ4GMzy7zGDFT2EV-1TaLc1kqpS64WIa3K4AhpfKT7Re6NR0fMX7C6mj6eo-JyZrmbPOt_RdIPKrE0DkKGq2yLXpDlvuTALPB0VRHX3i5RUDDrMit_UoQDeLp1CUPcyqGoi2efTJ4Fe3TX0ggk5xQoSzJQ7dP3a2bOzV79PbOPBoyqsv-6O6dxqwDDLUfUzEEOa2XZMz-4-dv3aPe5ol9XQzbX67K0RFVhcuBtnaPWUenShMsAkEQUX9A_woa-3D1rOOgDNHu9IHD68pzdbE_ABcsqlGGSm1_CqMrMODurWTMX5tC5tCACdvuszJod3kq0itUc0-OB47xLphz3zo2QNV8oQcRge6M1Un2qCv8rBqKoD62=s937-no",
-					"desc": "Two women on top of the barn, hammering shingles onto the roof.",
-					"caption": "FINALLY some help with the project",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/hBpHMHP9LAzb1q1NWyxuga0H8BIfxEzW2pVljekYJO1o_O29uNyTF7Z6llHjFuHziBzSZyVw34GG2u74RYg27AM-O8VbggQxHnyLPNysSFUvrGr9OoO-lFirmGWo_cjDzKmb1iKa1P9Nte1Azs_wxdJwc3a1VBxlDlowtcIFr40a57rqR5HsUvTQAq_TBMTD_Gdrnbclzun7-GZJvurHmWT5LcehBggAj5JQG1vzcpxFs5PLoCeq2PBh8hzIOtPsn1odTO3-o43XQ2v_QfLjLPUhkkjOaG4-rMuUYBi0u0UGetz2vGSbcF3cqq_6XUJ1pmBMgxKS760zXNXHMlDbecgDQ9dxFCR5FK0UYKoQfd6-ZD8dPUPcTgcyOxjxdUoK-_6AgS7BTAA3W2GkcS_vzxeUFjtPnAwgvsMF1qwwBUNpm_0ZijZDprCTy9ShaR0sTUF1CDdUY0ZMSuyzSxUW79A1Rbd__ooGJrcqap3UOylzWJ1DXD7zQu4iW1do0r_0Z8Nz-XOA_MC0B2Ed6rzxfEvJcQEGYQ0dAPj2VXGLN0UbMmdR4AE_MtVt3NVfSOHD_GI7qaFOSZuWULLdzqmIkurQ7Z9zjmZvL4WSjZlXD47gKOci3krpC88xfFuQVVSY5aax6Wa6C96idwgcRmHjnAiiH8_6JudLD_GE6y8Xb7TZrYxpSQuuDAOrZkOxlxm5ytSvS4XruNuVb0HymsWh1QZP0ODvDGXJdbIIa4bhGzBrbZ8A=s937-no",
@@ -226,7 +216,7 @@ window.onload = function () {
 			],
 		},
 		{
-			"name": "New Construction 2020",
+			"name": "New Construction 2020-2023",
 			"photos": [
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3f-Y9qc9XRURdLIDWFvQPcQWnphboPp1fhb2EpTrPhCfqhoZSeRAr_YiR3RitcuxZRq5nWXKup2Yo5I4qsJC1oN_ULyCJFnzvDTjn6hHN079n2pbjas2-DzfMB-nq0HgLDAWlq0mxf20Rwi6IcrVFUQmw=w1669-h938-no?authuser=0",
@@ -237,11 +227,6 @@ window.onload = function () {
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3crO9ZnOstGUi15UE8YOo8G0FC8HNvPDKTHGS3xmfB8C44bAKqgzaLaIIRi0S3HLxFFCSfEq41KFXr6lb4on_XWyWbRtvXbRx9xghNF-w_WsPO3GPXctXt8OATi8S7qhYSB-h-1mPWx5Cxb3smFd_ViKg=w1669-h938-no?authuser=0",
 					"desc": "The frame of a short hallway with no walls. The posts still have bark on them. Evenly spaced horizontal boards are laid along the length of the roof.",
 					"caption": "Roof boards provide some shade until the shingles are on",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3e5jcEVP0S4NGSIHc-5Kzl0I3dpjOsPjNVKTTlp8_CLZrhLijRkB6g_p46XRPPQ9dxvAGPDso9B6Rj4QEovSoG6h6la2A7LgLaG4vsj0c7G29eT_83wqFcX5IMncWIeN2DR00m4GWrExYrDcS5r4Zejng=w1669-h938-no?authuser=0",
-					"desc": "The top of a short hallway attached to the barn. The roof is shingled with cedar shingles.",
-					"caption": "Cedar shingles from Maine complete the outdoor dining room",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3eK4jJ7H7R-6tV6HD0rxyVNyjU0ayXJoxAZFCWT6qDcBYYnfT9221-7eLPhaVGKNxJ-j9mvYsaWNhKKkxHGlFxLESGdTZjhFf3XGWjhzJ1YHYJ-N1mop_jD6n_kf1Zq2jaumx6zeeTPAwM09MobzTuImw=w1669-h938-no?authuser=0",
@@ -264,19 +249,14 @@ window.onload = function () {
 					"caption": "Three roof beams of ash are up, sitting on beams of wild cherry",
 				},
 				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3eOXsBuRb1mYFINAeu-rVzsJpruD56ZhstKfVNuFbdtbSNOxobV_OzDyDyVGW2Kbh-O4W6qKqPIvtWePw7qoy2m_zlniO1cAwWzmKPQnK5_R2jqXS72cx9MEHVE94NpM56n_Qw1d8mjeabo5942UH7kNw=w1669-h938-no?authuser=0",
-					"desc": "Angled supports have been added to the entryway frame. There are flower baskets hanging on the front-most posts. It's very pretty.",
-					"caption": "Next task...lift the ridge beam up 2 feet",
-				},
-				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3esq2rwMyS1BwkcYOyVP0ZzVbDi9obF6nuLuagzShSdNnYk4Dr1NQJ3jXyD7KfJyAOj_6Fn6iAdN5Nj2TyRPj6USZfHvJ2cWg6rcmXpRD_VsC4z1Q9f1Lo9A7mog5OkOxpPpIG9r37k30ZYqqdEOd2PGg=w1669-h938-no?authuser=0",
-					"desc": "I was wrong, the previous poles that were going to hold the roof have been removed. Vertical posts are added to the horizontal frames and angled rafters are in place, ready to hold the roof.",
-					"caption": "And the frame is done! The Emerald Ash Borer killed lots of my Ash trees but the Ash makes good rafters",
+					"desc": "Vertical posts are added to the horizontal frames and angled rafters are in place, ready to hold the roof.",
+					"caption": "And the frame is done! The Emerald Ash Borer killed lots of my ash trees, but the ash makes good rafters",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3evvPm90tmSKoe2O1ma161AVtDOhNUzkVTHpDCrWGf8NjkFkGjDCoGN7mmyjcQNYDdxPz6vjU0ODFyNwXnB8Uh4P9IrsOdM3c-_J35tUoau0Q993Pku7iUvXHKbkEt9vOB5jCrGYkvwFTcPGnVqMEVF0A=w1669-h938-no?authuser=0",
 					"desc": "A side view of the in-progress entryway. One reindeer is grazing and one is eyeing the gate.",
-					"caption": "The big boys checking out the new entry way",
+					"caption": "The big boys checking out the new entryway",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3fS_RC7TGTYgR-8ReutPiW-IGbFD09qERI8O4XKuKhlBMeXOAXZh8FT1VT8wmnpt6-g3X7Sj2m_JZ-ZWyHNCqn-xEXztVSztCCsB8rlcX3IpgAEq9aWzhsF6O3HyWWndxJPfaQKKkd4a1DpiGWaDEtQ8g=w1669-h938-no?authuser=0",
@@ -288,27 +268,58 @@ window.onload = function () {
 					"desc": "A small building near the entryway with live-edge clapboard siding. It looks like someone shaved a tree and made a frilly skirt out of it for the building.",
 					"caption": "Edge/slab wood that was bound for the fire was repurposed for siding",
 				},
-				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3eyFxYMfQKxy8uoYbNnQ9pefIb_6s58V5MZtv98rZF8jJeP5zaeAM2NDXr1rG4C-j1d8gSJPfugWHUG3KrSfxx_B6EgDsjumPvbBfY_Drg1L1Swn9JLw9AUA3We_8fGGi8_qzWJz1JYzO6vXiRobgFgCw=w1669-h938-no?authuser=0",
-					"desc": "The inside of a small building, showing the wood siding, plywood floor, and posts with bark on them. There is a door and a large window with shelf to the side.",
-					"caption": "Weihnachtshutte from the inside",
-				},
-				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3cfsXdqFWX34Y-KIf5QTap7IW-fyE5uogjwJo9FyH-9lZ3XfiSAfdsq9t1LoL9T844gle42yVKrLm05c4r8mNtfRUgvRlpQQLVJd2hZrqy0GWQwOuy49J1uwBu7FP7CCGpEcoEgouQmkv95sjd4kWVpeQ=w1669-h938-no?authuser=0",
-					"desc": "The roof of the entryway with piles of cedar shingles sitting on it, ready to be attached to the boards of the roof.",
-					"caption": "Six squares of shingles have arrived and are ready to be installed",
-				},
+				
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3fWWq03S5SoQY6nEiTOKkC82ORY5f1wtqA_5M82bkqzW3YVww3RFzYSsjV5ad1G4NFvYA-2ZAqvEIZ6jZoGgJuO28dwPImOPfQRH4pOYG3tKF_rYoTXQz3QQ9hvZKJ_ySflusowoUmqVSc8ic8aT0SVFA=w1669-h938-no?authuser=0",
 					"desc": "A ground-level view of the entryway and small building with piles of cedar shingles on their roofs.",
 					"caption": "The progress is slow with an old school hammer and nails but it's a fun journey",
 				},
 				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3f55ZZIgAw7LD2ONV-disYwdEuKLpHovTkVqFi5droRdZ9B1SAbZ4Lg7A-f5vBb4gSpkrw1498vpf9Ok08x6XP7_OBwRBsM8TC7paTNkXEX8czDHzdYH-jAHv8P50FNxfgMAxkNHu_l8_KDnxIdFx6g7w=w1669-h938-no?authuser=0",
-					"desc": "The finished small building with maple syrup bottles and honey jars sitting on the shelf in the window.",
-					"caption": "Syrup and honey waiting for somebody to take home at Christmas",
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNw-cNUOusZYKtUwjb6W9u1hZSeJnhqzB5M4d-QAXgqMFf3OEcuCxsUiLJx6pQzu3z0SWA8k41VdRR64nbobjxkPbeTuLUasUg07G74qV-2iPbtERvoibmFi3enbqyd8jjpL7LYFbBsy1Jk9QYTjz_t=w1304-h869-s-no?authuser=0",
+					"desc": "Two men bend over a pile of large poles, preparing to set them in the ground. A red tractor is in the background.",
+					"caption": "The octagonal barn is great for the reindeer. Now we need a bigger barn for the people who visit for events and classes",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczML8ZwrX_VGO6VlLv47aViB7k2omBqXmy_R6R-GG0S1-rkrnVQL0GWeNschk0AqBvr9tiryAv2bJTa6_emSifTocBw65kNPPcM6frtuNTZYTNOHG8BqHZmId0POW1ylEDQ4VkWiilWqoFqOciX41AJ2=w1304-h869-s-no?authuser=0",
+					"desc": "A man holds a reindeer on a lead in front of a cabin, with a partially finished barn roof overhead. There are fall decorations, corn, mums and pumpkins in front of the cabin.",
+					"caption": "The reindeer inspect the new barn under construction. The Weinachtshutte will be inside the new barn",
 				},
 			]
+		},
+		{
+			"name": "First Year with Reindeer 2017-2018",
+			"photos": [
+				{
+					"picture": "https://lh3.googleusercontent.com/Q5Qryv5i_lZrhUGefEfHQ51VD02DmvPdRy1Glf6Q6rgN766IxfVmH768315i9zw9CvV5AOjed1YhfxexmhDpwEAU4sZ_8DPItWb-PeJc1h6uLMsS1JqLWE9DG80la5Cz0LG2dU88MOX-Drul46z4G4sgbiN0xvkNcVa9cKVLE47Rr0EGdQKLxIm4Sluxw3nz6Mo2qWdaPlLKMX0zWzxrIMUT9AQd-evJj3r5xUZv1d_lWQiKxMxfLHn71vKeIK3zu7S-1pmWx-HvElmN4vRzfzManSThLRjQMTVcF316SRniiz9dWeqbvUTieQgBuuaJHYLEp5brKwRoku4RLZnc2pKwv7ZBCFSHd--3CHxBsL766uugcfEOeCd_tDJnMnINhCcxIun_HJyzP3_GTIoPhuPrWw21qcCjJI6wNgbAG_uEctOljwjicLbp9WmBl1KzoUHKUaVs_4wm7l4SkPzl5Uzrez_KgspmEs9DPLG0FspVRD8zfdLCIUNB9A86Cvmy30-yvvUqOOtNK5LomlUOA7nguB7TToBHsfv3XMqNA7rU-B4xJow-nSt5zb5dFffVM6O0nqBtPoD865y8WT68ZuHD4W64WBKh-tWIDb0-ms-m7YvY4q2FWMCpQutVXJPCSMgsRCpd_SZsuTUr6-5lgYC9x1OldXbLGgD6LsEZ8riiwcJzaRVe01UKU18jziXlQnTOhkyTyajz-Uu7apaWWh_wE0M_h0D8CgCiHFz11AwJKpQ4=w1184-h888-no",
+					"desc": "Two young reindeer laying on the straw in a barn. One of them only has one antler.",
+					"caption": "Unicorn Moose and Little Buddy, Dec 2017",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/AH6MtUs8E-8XBJ-cJKO5yMV3WSW_SN3mOSt2mSVml3hUWm8dMN2qgrDnzexNGuiCKUsZ6rffkERVuf65jDnY87PNbR80ZTkUtGppXgnlL16mhFGeyaq10yrRV3E7iIrx9hp80TB-UF5-PJodhpB51vfkAdkB7lKie6K_z8CnDTOsCjqgvUIaPuwOoGR3QiIV5uhWYV0jDQyHjFk-Byc_WK13g0sIcRNQ3ZrA-919btSku5wEmHrtUJ6ssMqpXQBzXM5UUw5hCPx-Vj0nPZyUxDi5fkGE_F85Cwi_qjgMqJG4w__8QaYQBT9QYOapzDN7y8RmwlKr48aA8L0zr4hEuNYHAU5-K03gyZM7dEaVWw6cqUcoepGIDRd5q3VgBTtn3vYuDdOhlsDBsdemXbbslV3wOAFEzcYmpgZyvONxe5I5GCT3p4murU0FoXQs0CrfED560C7uouxLRZ_RIgWRyK3bHB5DufdMFCVWiLSCRrqGvjOvBuZyeAA6wqwz0zQmWqfy_4LrRTd8tGlBsuqqoSMvOF9K9jg7QcxbSeg25BNM-aa3S45epHm5URMO8vmz3NyRZuIO8ZbM78-t0aUnSMxXqLkYklSszfpdwO6BMTWJ04QL7Pefit8k-r8hmFmpziddw63SHy-StUmO5yfUXhX4nFgEA2AYHm0ruzzR_5vBr7mb-hFLo9Ru4OMEzI2yA3tF4myujGXZLtkm0D9QIDxga0AQws2W-ADhdwO_Um2Tybz8=w1184-h888-no",
+					"desc": "A cheerful looking person holds the head of a less-cheerful looking reindeer.",
+					"caption": "Dr. Kelly comes out to castrate the boys.",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/l8A3N0bvADJCFSrVy-KI4Vq46wEb2glr2n8e3zE0NvbEnkwjgPi6HtBbMA3KcnoAqldgZ4gdkBZSjZFxD1OzIyctBprV1ephzz6ZJ6SqQ8ryVOzbSeTZ9Jclxx5AZkcoo2QiRdKUIjx4DZkhiID-_0WgG1zEJ2kcG-FpKayJo6Ayc3PKIR31Btf2LN8YH4HtLWBaDVhJzE8ArZR-SlIH9P9f9wDdshMectrRKMbjrswaPRmZPtOVmN2kON3Owcd955m4XXOjIAQ_GUR4sP8sNiI-OWYLsV3KMKYS09hCsEzetnax1kK24r4qS2vAe-wWxnQ9mWHANIkZ_Gf0AHmQBXtJ-47NGWuDLJHAooj2VwBFvSFdpt6RO-qfQsoE-MOAeA_-gJ50lJ8h61t4RYg1dSaFIw86zPwEgsVyFYshC4OcsHLLTvmCLAzU6Zl3bJgsYnYy_MnLcJBkEms1CdqjW96yfGGHs7ywepHwwCe6QAHCCx5TwxEwo_07LgZIPzoChwq5eDgEnnkL51dClVoxdd5lT66FwzwaVDmUFXQqr_Qv-ygYsd--Vpz0IBp96ENvXchfKNd66-7oe8FSew55CcslAMt8mGwi-BHSbqbUEd7cnUFzY_ZwXmdNbzsQpr_uHPa5Ltg0ybdWu-R6Db2CG_mOmZxl3SPdNPXllc3dS1ep_QwUFwdAHciwo2DVbXRGLqqZBFOYIfOaN5mEtuMC9EQl_xvcoPuy4xxl3Eb0OTEx_q_I=w1184-h888-no",
+					"desc": "A man holds the halters of two reindeer. Both reindeer have stubby, fuzzy antlers.",
+					"caption": "Spring of 2018, their new antlers are growing",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/WSqRIWvYVG_CXQbdI7-KamxD-XGtHa6uLyvJJon4XLQdtvHq-DXErfNcgL2AL3_QbylupBKqttsb6QdHVe0TIMWdJ_3SKDgBgzbvaZh3SpGrhMVpmgm7PNAIdA_e3Iuevc2SlelRoXjhaM3wtI9Hnlz1hFccKhKPvlKzKb1vOfEj0iauoRRY_8DJEEmiDdpKnJwmYopR0H6HTqu9A906O8Inh15-YzJfa1ClMsPZToYRPQt4U-d-gt_lTYx4n0o3Re4jPCbB7StODkcu-4dd74Tb5BVo-45ZZWc1CTk8paeVMgLsRCfP7-iIBK5AGnMnH8slUa6RVFn14uO62uFl407Jd2uBvjgolMa0T9ZE0yhkuNFzAL0UXh1HQViSqKs-AixGpwO458EAABP-654Bs8CaVf8VvKO-ikN8JyF8jwuenIBKWB38PuSiEIB8mfkC8lQgsmscT9jwKPsut3v2066TBn7faiID2Sf_hGsR1CWcEQOEsZabFuWPT-2grA9oAijiLPxvC0T8DKstneLPoHS8hMw4zHeGu7MIwSgzG0qwiezFUklgzI3oGgrcNGE_6dd_HEMd6Nzrf6IkSJijHbnBXugFmVvK8AVo2GLKIkUIWbVuKZgo0GsBqIF7GKlH1fdsLub1mFYN7FKTSYg4erzQhb-KunDRx_RPTlYkdsTnPfVXoEvs3CYFG0J5wyOFt--Q7-5UrrLJz6oUlCJnOlyVzOW8QqsUkg4jAXyUHv2qO3yl=w1184-h888-no",
+					"desc": "A close-up of the stubby, fuzzy antlers on one of the reindeer.",
+					"caption": "Amazing how fast the antlers grow, Little Buddy",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/B0f51cShkvjVafAro9efXk9tdANV8CQ2jHK5NX8uPomKBiTl-naZa8xFnTxLN4M-hj_fcnq9eSKevAUNfG_pz9jVNeE2zc1-uqTeUlCMpZ--S1Gktqxo74OYuZF_bDGtybnV09p52j7BemFtcFfEo23FOLF7IUN51Q2J18p7W2ZOQ-GdQR01-MEEq3CSGbtufhESl0QG67tg_cAE_aoc3ugFoX_hNy92iDA9N3r9pfgW2zuwy243XEXRj6lD3Mx4yauereT3IpKpl7ZBlCOeuKFWt_whhENrgKTHmtXAhc-gpL1il-l70zCfSbZ7jnB1danS-spIaGQ3QF56scTKRGIvTZBDOLoo5c2uibbUiIMMr4qZr69cQU5HLSrU1FZKS9g4BKsYAF1RbF0KhU2ryOT7YwJ5Bhfzqmzau5rrEUdSCiuW7LlrQe8M-aIYFsvO-peeiL9LNuvMk_yMszwLJQWjkYgEgKFH8_3gK40kMW0dhWLUr3v5pTg5FNmHgJL169op9_0C1OcItQTVtCVPIafwZZ_WfOhs9jxzYGPrG9GoAqiAmdDCVN9yVWD-z7ngO35afTyyK24qCejljt9LYmu9qKrVbYmbGyEyx_svfF3_hnBKGEH-b5SlG16bjYfxw0OuhQM1RLUY_VVXN2KGT6xftVtM4_GQ3Ma5uqsdRBpMiyBm-BAtn4BB037nVXJgL-ZuNenyjZjxKMQSn783GP04skzmP5IJ_cY0OIr1Jd2Nyf6M=w1184-h888-no",
+					"desc": "A close-up of the stubby, fuzzy antlers on the other reindeer.",
+					"caption": "Moose is a little behind in the antler race.",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/xBgJ-c2Av_0JggM9Js3dowo1mr9HOsfMDd4eVZ7VDp2LidSBkEPBDkU6WyWmbNMunD1468NdJZQpnCSCHYanColODJIZm8ItIFL5eYE9dwyUDB3FMlZ5L25K7VX9yoobaZ25EZuPuDjn4X48eoIoVRjUnIpandSQu_T6HYKKD4blkYthpa0faes01lxJGIl598cizleMA7IhfeLYh3UJNSLgivlEc8FY4aKW_siKqXDkkgn8mK5qFvSNN7a7tdKvpBJAfGwhyCqjhtFMoaksA8JOXh-Lnc3pmD3uIlWiwq9vJ_8hEmbxtfWa7_RuL5WB3AtPsdXilgwopM_Mq2q4LbU5k_lhUT2u8jPEg3BVMAPF9Z0ofl4S0oGJoIYB61qCzg8xrD8PWCnyDcF-EZncBUGYh6Gb856IBjGCpf17MWfK1nhFqqhidYh_URCR1uYzFme3h1RCdA3tHeFUeFScmt_-q28qjoFH_Pt3rGeEJNnAMbNbr3UcB384B1wnfxnQYpDqM6nI4lub2YlwSn-M51gZoRn1rqpXtRwoSRcYt-wjrP3Gdiz3j1LA4E0oszYervct9jT4WvEcx57ME_5XWm1Hx5lygYjCWIns45N0NrI3UewNTetUpbuRJxocu2uEW_K2Ur8qu1P3ZhtBsufr8ruWtCt-rH_GcjAjEtc3UMgyh40NJrSg9wAkovn3gm26x0Jif4OISXrbpn6PSJRhTQAJU1H6TigL33u4QDFf2_-x1xxX=w1581-h889-no",
+					"desc": "Two reindeer with long, fuzzy antlers and shaggy molting fur.",
+					"caption": "Moose in the foreground, Little Buddy in the background. Antlers still growing, winter fur almost gone.",
+				},
+			],
 		},
 	];
 
