@@ -247,7 +247,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczML8ZwrX_VGO6VlLv47aViB7k2omBqXmy_R6R-GG0S1-rkrnVQL0GWeNschk0AqBvr9tiryAv2bJTa6_emSifTocBw65kNPPcM6frtuNTZYTNOHG8BqHZmId0POW1ylEDQ4VkWiilWqoFqOciX41AJ2=w1304-h869-s-no?authuser=0",
 					"desc": "A man holds a reindeer on a lead in front of a cabin, with a partially finished barn roof overhead. There are fall decorations, corn, mums and pumpkins in front of the cabin.",
-					"caption": "The new, bigger barn in underway, being built around the Weihnachtshutte. The reindeer inspect the new construction",
+					"caption": "Inspecting the new construction",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczO-wBN5HxMpBsY9LllekdP2i7d4c6S__s-A-1GSspSP1y7CWr1MAh6B930Fi1AOn3VFE_FInBYbzSzhph9wcylN1HAS4xCYUYYdODKP0LUWx8J0rKEJDWIYIJi0g-i6Uh4wEB6E-cztVlbnKwDBBz7i=w1361-h869-s-no?authuser=0",
@@ -257,7 +257,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPeepyG3pXvNWAlm0PGioECQOlmI7iV9D0raYwgWPLWaEeUeykNCxR-1oaW14owrLPre9SjPrdCi65dq60bJS57B39LtKR1aMI3JQ8gRteRNEzDL0SZDJWSfSlT_DeDRjuV_dlTmSyBe0FiM2cH2m7m=w1159-h869-s-no?authuser=0",
 					"desc": "A gnome made of cedar branches with a potato for a nose stands in frong of a barn with christmas trees, a wreath and a welcome sign.",
-					"caption": "Well, never quite finished. Added a front porch for the new statue, named Ranger, from North Pole, Alaska",
+					"caption": "Well, never quite finished. Added a front porch for Ranger, the new statue from North Pole, Alaska",
 				},
 			]
 		},
