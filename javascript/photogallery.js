@@ -234,13 +234,8 @@ window.onload = function () {
 					"caption": "I think the boys like the new dining facility",
 				},
 				{
-					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3crbZApsSTGEx0M4SybtjAi9JZbMl6Lne3WGyBPlYHF_BN9WnrDKDPxgTVYqPPdFPHLaGve0okr4_iTLoXWYut_GmqK1zza7XbEhQWT7v2Bq9oRv5TTxwYauHgZPXXPyXYB3VEV_vb3TY8qRlBd2E9APg=w1669-h938-no?authuser=0",
-					"desc": "The beginning of a new entryway to the barn. Some contraption of timber and ropes seems to be heavily involved. I don't know what's going on here, I just post the pictures.",
-					"caption": "Summer and COVID keeps us doing outdoor projects",
-				},
-				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3epxAQ_RTpJxZkSnf_IPeeamEkuGJMbOYXFdKZgVeyt227v7LVGRayeq0Vem9HKvR1wM3Fqn0Ty__NTiBv1NgtwkjR9J6Sc5Rn9Zp1Pf-i15suQyePtZ1AQOaI2rql9vN27a1hH0iEqlLWSQPNvPdpMmw=w1669-h938-no?authuser=0",
-					"desc": "A side view of the beginning of the new entryway. This gives a better view of the timber-and-rope contraption involved, but I still don't know what's going on.",
+					"desc": "A side view of the beginning of the new entryway. A timber-and-rope contraption called a gin pole is used to lift the heavy beams up.",
 					"caption": "Learned how to use a \"Gin Pole\" to lift 32 ft beams for a covered front entry way",
 				},
 				{
@@ -277,12 +272,27 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNw-cNUOusZYKtUwjb6W9u1hZSeJnhqzB5M4d-QAXgqMFf3OEcuCxsUiLJx6pQzu3z0SWA8k41VdRR64nbobjxkPbeTuLUasUg07G74qV-2iPbtERvoibmFi3enbqyd8jjpL7LYFbBsy1Jk9QYTjz_t=w1304-h869-s-no?authuser=0",
 					"desc": "Two men bend over a pile of large poles, preparing to set them in the ground. A red tractor is in the background.",
-					"caption": "The octagonal barn is great for the reindeer. Now we need a bigger barn for the people who visit for events and classes",
+					"caption": "The octagonal barn is great for the reindeer. Now we need a BIGGER barn for the people who visit",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPXTRGH3PM69ywVChvsE-huywWCmm7EEv188rsw4rg-gcNGhUBRNYr4tT6VAN7I34ZTzNe5oHklla_-7457LHKydUa5mgJrRXX-oGtS5hngI5Jz0D6Mb0VOT5fX12iXzgyoYKez22GbzNsffIatp5u_=w1545-h869-s-no?authuser=0",
+					"desc": "Two men bend struggle to lift one end of a large log and place the other end in a hole.",
+					"caption": "The beams are a heavy! Thank goodness for willing helpers",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczML8ZwrX_VGO6VlLv47aViB7k2omBqXmy_R6R-GG0S1-rkrnVQL0GWeNschk0AqBvr9tiryAv2bJTa6_emSifTocBw65kNPPcM6frtuNTZYTNOHG8BqHZmId0POW1ylEDQ4VkWiilWqoFqOciX41AJ2=w1304-h869-s-no?authuser=0",
 					"desc": "A man holds a reindeer on a lead in front of a cabin, with a partially finished barn roof overhead. There are fall decorations, corn, mums and pumpkins in front of the cabin.",
-					"caption": "The reindeer inspect the new barn under construction. The Weinachtshutte will be inside the new barn",
+					"caption": "The new, bigger barn in underway, being built around the Weihnachtshutte. The reindeer inspect the new construction",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczO-wBN5HxMpBsY9LllekdP2i7d4c6S__s-A-1GSspSP1y7CWr1MAh6B930Fi1AOn3VFE_FInBYbzSzhph9wcylN1HAS4xCYUYYdODKP0LUWx8J0rKEJDWIYIJi0g-i6Uh4wEB6E-cztVlbnKwDBBz7i=w1361-h869-s-no?authuser=0",
+					"desc": "A gnome made of cedar branches with a potato for a nose stands in frong of a barn with christmas trees, a wreath and a welcome sign.",
+					"caption": "The new classroom barn is finished",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPeepyG3pXvNWAlm0PGioECQOlmI7iV9D0raYwgWPLWaEeUeykNCxR-1oaW14owrLPre9SjPrdCi65dq60bJS57B39LtKR1aMI3JQ8gRteRNEzDL0SZDJWSfSlT_DeDRjuV_dlTmSyBe0FiM2cH2m7m=w1159-h869-s-no?authuser=0",
+					"desc": "A gnome made of cedar branches with a potato for a nose stands in frong of a barn with christmas trees, a wreath and a welcome sign.",
+					"caption": "Well, never quite finished. Added a front porch for the new statue, named Ranger, from North Pole, Alaska",
 				},
 			]
 		},
