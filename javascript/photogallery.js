@@ -64,8 +64,13 @@ window.onload = function () {
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczM6ToEGLzQ2aQ4tvIeHAzCEpu0EWZxNtKdGfugLJZduL_v4-5tFy1mo-01abTd70esnCGX6w5lLlKjk7DPgpGt4VJW21D0swofoSy7D3SIxCkTnOKMePWPxI74ETGnaRMgVlrLBncZfRq-xmsZPbWGJ=w1545-h869-s-no?authuser=0",
+					"desc": "A reindeer, a sleigh with winter greens on it, and a man with sunglasses, vest and red and white striped scarf stand in the snow",
+					"caption": "Calendar photo shoot at the farm",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczM6ToEGLzQ2aQ4tvIeHAzCEpu0EWZxNtKdGfugLJZduL_v4-5tFy1mo-01abTd70esnCGX6w5lLlKjk7DPgpGt4VJW21D0swofoSy7D3SIxCkTnOKMePWPxI74ETGnaRMgVlrLBncZfRq-xmsZPbWGJ=w1545-h869-s-no?authuser=0",
 					"desc": "A reindeer, a woman in running gear, and a green sleigh with fall decorations stand near a wooden barn",
-					"caption": "The reindeer love hosting the Sleigh Me 24/48 Hour Ultra run to raise money for ROCovery",
+					"caption": "We love hosting the Sleigh Me 24/48 Hour Ultra run to raise money for ROCovery",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/WB7hZXpfvVhJ0p3Hl7HXhM6KZ4af4tHj7d4g25GxESptIJ2WT23a5shxwbvxIIehVX1cJkWGAGIlzbR95gCxYuoDCreyETn9nphiDscQz8Qjt6l8_dUbHU_XX0YEWa_qTZR56d9krlmKb7J-897lpCPX1XBL2iQH9g07eyoPannoo7FGYtIbHSStN5mCJsLzKDQ40NJg9d1Kr7xONtN-6ujcF7F3Qq6yJ1JaMgDArhXJ_rFZpZJCawicGnTVoGtf6R0EHY28BDr9fHE4nH8Bd8y1skvqihnsqGGKZhV2uPD-lvDSk70n9cisBDWZP-TxOsP4lHExIvfWAOcL1hTp5J79n_fImknqlI9oXQdhDQbaBWaguPrUrRkt1v2r-XVGxKWZ9rAd3JS9ClaggaccUDN3hQwgQ-UFmBGD2LF1m1QyMdrKgE0akg2EyCyOWeVqzJQ_O8OoTDr_zllXpV3eBcS-CEmFglZfGOerZXg6nScDMyCOKhJPwK5ihrBl8lujSobceQ-7O_Aul1RqW1Qt1GCsMJ5aNZvuMKZkziSFZ2DAJk-h6V1MJemjKo-k6p3KYe_G5UUZyKat-bDWy7UqJG5II-pL6lEqmozj3dU3sh7Dx6RQz9DZb6VqyYWgHCp_OoGEiNivxk3eox0iv6RKdMcxchbOxZUrP2eu5qq4JxiAnHt2AO9Tv3kMqg5x85X74yE6f8GUnXHGFywGfZt_ATQhwFR4QKya8heGf5HJlH1Jtg7a=w1406-h937-no",
