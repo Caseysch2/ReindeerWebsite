@@ -10,12 +10,12 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNYExN1crFmDNaP5t_3tqHgEMKFbYOqzD2l0p4UCD3ASNxAfHW3QYdQgmo69kT9QOX0v2zu2b_ZidphhORsaQgyTGdX0KTiVf8HsVo4nQLLqLcAOQCwY4-ZOmYNqBN-xSGz1eRjC7rLLV6IfsGasRcA=w652-h869-s-no?authuser=0",
 					"desc": "A baby reindeer in front of a hay bale and green fence.",
-					"caption": "Spring means babies! This little guy is already starting to grow antler buds",
+					"caption": "Spring on the farm means baby reindeer!",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPJPwRA0xbdBHJftVctbVloacXtjdiogbxSOLqh6kDwPUR9eeueyNlylA6ti92v-cZ-Fth0a-pj9xEtLG_Aq382pc6Xhs4lyVA1GBEMKR_2qQgVqRYumileWCK5M2nfdo1NugtYF4dAWblkpwX6ll7l=w1087-h869-s-no?authuser=0",
 					"desc": "Two reindeer being led across a green lawn by a woman in a green hat and a man in a red hat.",
-					"caption": "A visit to the VA Medical Center in Bath, NY",
+					"caption": "Visiting the VA Medical Center in Bath, NY",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMHKJyVIlnQThTddSBRy6GHxrDKNTnmc2L4ELX9W0010EXP1KSIDWUu7qddP27brTWPmCxiCWeZJih9iNZi4y4XTqqQXr2atNw6sCE1iPYFlFZX5WwJ_6_NhhqG63tEs4eyXfA20Es0ztaO0jnd4eb6=w1545-h869-s-no?authuser=0",
@@ -30,17 +30,17 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNsjwO-aq3NuWor3mJQCkl-B1t5EMu1Vy-6UFeJm90V9k2klN2pBF-QYON_EPXNN42jU4rc6IdG7J7_H2oxcJ9SrsMyhHNr9efsdXUGdDf_uMbHGSsWsDk-TxV-qVKr3sCHnSdiNtBD99jKA4f7mLNz=w1545-h869-s-no?authuser=0",
 					"desc": "A small reindeer with one antler looks like he is about to head-butt the camera as his other antler lies in the snow.",
-					"caption": "Reindeer drop their antlers in late winter and grow a new pair every year",
+					"caption": "Reindeer shed their antlers and grow a new set every year",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMQCGRgVII_0q8mbS3XiXIDbzxOkh9-jWV50h77FTLqShKrh_hdVDpCiRwCfa6idCV_l-tadqLBll5HK8fdwAEgMHBUb86V9LUItCAck2jb1S6etj1H2mZtJpb_L0ksEo7QNPxUXigAwC2fQtMZVBYM=w1008-h869-s-no?authuser=0",
 					"desc": "Two children look at a reindeer while their dad stands in the background and a woman looks on. It is summer with green grass and trees.",
-					"caption": "Visitors enjoy summer solstice with the reindeer. The antlers are covered in velvet and growing fast.",
+					"caption": "Visitors enjoy summer solstice with the reindeer",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPprvZ-tSJs0j71QCPw65wz8dyJlE2vA2uR77BMQ99DOJPIkkVPBNht__Q46u7aJU5W-MvWAUPvENi1c8jsFgG256Kt4A-8norqeUBnh1qW7R1-spCNUF8QzKhBNBP5M6_3Cou7gQ9PXKrRIDllpCkI=w737-h869-s-no?authuser=0",
 					"desc": "Two reindeer being led by a young couple in the sumnmer. There is a pavillion in the background.",
-					"caption": "The Shortsville Reindeer and two of their favorite handlers at a Christmas in July event at Lake George",
+					"caption": "Adding reindeer cheer to a Christmas in July event at Lake George",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNIWuPSFZGvvUI7RpQ2SNATt0V3SEH3r8LYW2wIAhtRTcwbD8TNZP-i_LOd22cTCZDp0hpHDcdQU6HNbs2D6GSb5WCbexdlWh4--Fx88Z4mrSLzqeSgIA-WY_XPgQscUx5RLKlku3v5Lq0gko8buIPL=w877-h869-s-no?authuser=0",
@@ -55,12 +55,12 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMh_fslNFT7ddZTmFVKTNE4jaP0NuJZz3kiD-063e-nNE096rZzc-CZum_Kmdc8gpdjEU1cSEShNoJ3LbgvepgBgZIhZ4_SJPrObE5yX0xgeWLMQlV8nnEHDS5Z7BJ9Tyzt3t_RPjZMx5YXApLkcbF4=w956-h823-s-no?authuser=0",
 					"desc": "A baby reindeer with his nose to the ground while his mother looks on. Spring grass and leaves, with a forest behind. ",
-					"caption": "A new reindeer calf, born on our farm in April, enjoys the spring weather while mom looks on protectively ",
+					"caption": "Our newest reindeer calf enjoys the weather while mom looks on protectively ",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMzx-jR4DVCsMbESV7y7nX1aTM0FUrs35ImVK2Q8EIpZRzK4AcmRxumEKswE_eDDsin-mHNKRyn4_2A9qgvvjwFn0a3VN5TC6qUehelaf44c7076hMOSHIcr71tyYtWLQBq-o9rebiWzMFw04Bz6p42=w1545-h869-s-no?authuser=0",
 					"desc": "Two small children are putting a tap in a maple tree with the help of an older guy. The woods are treeless with a bit of snow on the ground.",
-					"caption": "Visitors learn to tap a maple tree at the Reindeer Farm",
+					"caption": "Visitors learn to tap a maple tree",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczM6ToEGLzQ2aQ4tvIeHAzCEpu0EWZxNtKdGfugLJZduL_v4-5tFy1mo-01abTd70esnCGX6w5lLlKjk7DPgpGt4VJW21D0swofoSy7D3SIxCkTnOKMePWPxI74ETGnaRMgVlrLBncZfRq-xmsZPbWGJ=w1545-h869-s-no?authuser=0",
@@ -70,7 +70,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczM6ToEGLzQ2aQ4tvIeHAzCEpu0EWZxNtKdGfugLJZduL_v4-5tFy1mo-01abTd70esnCGX6w5lLlKjk7DPgpGt4VJW21D0swofoSy7D3SIxCkTnOKMePWPxI74ETGnaRMgVlrLBncZfRq-xmsZPbWGJ=w1545-h869-s-no?authuser=0",
 					"desc": "A reindeer, a woman in running gear, and a green sleigh with fall decorations stand near a wooden barn",
-					"caption": "We love hosting the Sleigh Me 24/48 Hour Ultra run to raise money for ROCovery",
+					"caption": "Hosting the Sleigh Me 24/48 Hour Ultra to benefit ROCovery",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/WB7hZXpfvVhJ0p3Hl7HXhM6KZ4af4tHj7d4g25GxESptIJ2WT23a5shxwbvxIIehVX1cJkWGAGIlzbR95gCxYuoDCreyETn9nphiDscQz8Qjt6l8_dUbHU_XX0YEWa_qTZR56d9krlmKb7J-897lpCPX1XBL2iQH9g07eyoPannoo7FGYtIbHSStN5mCJsLzKDQ40NJg9d1Kr7xONtN-6ujcF7F3Qq6yJ1JaMgDArhXJ_rFZpZJCawicGnTVoGtf6R0EHY28BDr9fHE4nH8Bd8y1skvqihnsqGGKZhV2uPD-lvDSk70n9cisBDWZP-TxOsP4lHExIvfWAOcL1hTp5J79n_fImknqlI9oXQdhDQbaBWaguPrUrRkt1v2r-XVGxKWZ9rAd3JS9ClaggaccUDN3hQwgQ-UFmBGD2LF1m1QyMdrKgE0akg2EyCyOWeVqzJQ_O8OoTDr_zllXpV3eBcS-CEmFglZfGOerZXg6nScDMyCOKhJPwK5ihrBl8lujSobceQ-7O_Aul1RqW1Qt1GCsMJ5aNZvuMKZkziSFZ2DAJk-h6V1MJemjKo-k6p3KYe_G5UUZyKat-bDWy7UqJG5II-pL6lEqmozj3dU3sh7Dx6RQz9DZb6VqyYWgHCp_OoGEiNivxk3eox0iv6RKdMcxchbOxZUrP2eu5qq4JxiAnHt2AO9Tv3kMqg5x85X74yE6f8GUnXHGFywGfZt_ATQhwFR4QKya8heGf5HJlH1Jtg7a=w1406-h937-no",
@@ -85,22 +85,22 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNJplCon0axHHutjossir-7gDMs_zZ3KwhO9CC5x-fhlqx6DRG4n6GS_XK-8UrmloCRy1PXx8A5GeBgtyjv6LF9MWupiFPPPBxYLQOm4u53CoFfA_Afe43fgeym8fMx57IPaClaeITvXtmsl8wfBGnN=w652-h869-s-no?authuser=0",
 					"desc": "A man reaches through a red fence to feed a small reindeer while another man looks on. The reindeer is covered in snow and it is snowing.",
-					"caption": "A visit to Camp Good Days in late winter, after the reindeer dropped her antlers",
+					"caption": "A visit to Camp Good Days",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczN-nIkLAE71tmoFUWRybxIHSxxcYfdQlePzQLPdpbKg_hOSk6q5htfMqJ-mD_sQpWE3fzlCfgSdzfFDbJjieG4KE08tRFFeLpho-qCG70hCWWe7Ok1qdCYv59rMONEDpyFgkQdqhAbkAfKm6ECSA12Y=w626-h869-s-no?authuser=0",
 					"desc": "Two reindeer with red-and-black halters and harnesses stand in front of a house lit with white lights.",
-					"caption": "Two Shortsville Reindeer in New York City, acting like pros for a TV commerical",
+					"caption": "In New York City, acting like pros for a TV commerical",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPNrC3cBzxFsQd9iRX5MScWlqS7RJ3em1jfqhLHxwKICqDDggtOpz1Safs55TR22HqbgcNMeXX7xVpLvV_-7OE5JjJFDu6E6QKDUZr8B3aCc-hY07Ir_y-pr976sc9No-B6UcC05_8dKBQqq1DIuFrD=w489-h869-s-no?authuser=0",
 					"desc": "The head of a reindeer with large antlers, covered in velvet. The reindeer is standing in front of a group of people sitting on hay bales listening to a presenter, in a wooden barn with rustic rafters.",
-					"caption": "A bull reindeer models his magnificent rack, covered in velvet and still growing, while entertaining guests at the Cornell AgriTourism seminar at the farm",
+					"caption": "A bull reindeer with velvet-covered antlers at the Cornell AgriTourism seminar at the farm",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNbJHCweP4CECboGK1dBnqtWQhNJ8utZtmUXObE2_OvrHsN-XeRWoqCrdhq15de7kYrLyTLpAyHeuMEBlxBV_xH72MIFXhPzbEETHBK_LRpcNzJHLHZIrKuuIH8bqdbPLPO1sJ1-sN1SFBgqgNXRYmv=w489-h869-s-no?authuser=0",
 					"desc": "A bull reindeer in the snow showing off his large rack. Look at those toes! and reindeer pellets in the snow.",
-					"caption": "A bull reindeer models his magnificent rack in early winter, after the antlers have stopped growing and he has rubbed off the velvet.",
+					"caption": "A bull reindeer after he has rubbed the velvet off of his antlers",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPjn6KrDaRwuGSr4c0DpdNdFggdz7TFffPzUpGakt8wS3QJ3K3W0LTFf3EmqCPF_6eFr5-FSfiO8AU6eyWxz5Hf4z1x76tunQM6aumz6bmM5gmkNDVCQopRvrMlg0haQp9V3_ZWk0S2v6viioi6CAFn=w1144-h869-s-no?authuser=0",
@@ -115,13 +115,13 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMUGq6odm972JPo_48daoMF3pXptLDTKTxbRbmW32UmLVvLJYG0xQKw1e4U_AaANB_GfIczzsebEFVz2QC6ivIeM2TDipZZ0k8M4VZDgOeExyAyKmyAYxGh80npKKB4e1XNhQb7nu7iDZbsPxbDQlcS=w1545-h869-s-no?authuser=0",
 					"desc": "A reindeer with a shaggy, shedding coat and small antlers in velvet.",
-					"caption": "Reindeer get pretty shaggy while shedding their winter coats in the spring. ",
+					"caption": "Reindeer get pretty shaggy, shedding their winter coats in the spring",
 				},
 								
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczN08TKGnGgIFPdhJedmqfwLQNjL4UZmmxFAf7TY7526UxIIe96Ez2sHJZRV-WlOcDNM5WroAa2lVMkS__rnXSt5LlUp7W39RbA0UTJEdsW17l9Vz4tLJel368MSvT_S6A02flu1CkE06AfMsd9m85v7=w788-h869-s-no?authuser=0",
 					"desc": "A female reindeer touches noses with a chain saw carving of a reindeer. There is a sled in the foreground, and snowy trees in the background.",
-					"caption": "Checking out the new arrival from North Pole, Alaska: A chain saw carving with caribou antlers.",
+					"caption": "Checking out the new arrival from North Pole, Alaska",
 				},
 			],
 		},
