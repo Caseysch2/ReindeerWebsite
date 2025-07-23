@@ -63,7 +63,7 @@ window.onload = function () {
 					"caption": "Visitors learn to tap a maple tree",
 				},
 				{
-					"picture": "https://lh3.googleusercontent.com/pw/AP1GczM6ToEGLzQ2aQ4tvIeHAzCEpu0EWZxNtKdGfugLJZduL_v4-5tFy1mo-01abTd70esnCGX6w5lLlKjk7DPgpGt4VJW21D0swofoSy7D3SIxCkTnOKMePWPxI74ETGnaRMgVlrLBncZfRq-xmsZPbWGJ=w1545-h869-s-no?authuser=0",
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNJLRoY_09kUJA27aITvX7v3hxCh9bCYYGiR6A4qXYWw_KrFfassPfbWqHAFcxrJ78nPW1SYxhrlMHoc8mwvxOJdQ6DNrTu03DdDeemGmTblF_0k7oB0ygVyeom4jslZkE8oDGBU6FdyTx1Mi07puqQ=w807-h807-s-no?authuser=0",
 					"desc": "A reindeer, a sleigh with winter greens on it, and a man with sunglasses, vest and red and white striped scarf stand in the snow",
 					"caption": "Calendar photo shoot at the farm",
 				},
