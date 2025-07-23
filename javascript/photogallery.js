@@ -40,7 +40,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPprvZ-tSJs0j71QCPw65wz8dyJlE2vA2uR77BMQ99DOJPIkkVPBNht__Q46u7aJU5W-MvWAUPvENi1c8jsFgG256Kt4A-8norqeUBnh1qW7R1-spCNUF8QzKhBNBP5M6_3Cou7gQ9PXKrRIDllpCkI=w737-h869-s-no?authuser=0",
 					"desc": "Two reindeer being led by a young couple in the sumnmer. There is a pavillion in the background.",
-					"caption": "Adding reindeer cheer to a Christmas in July event at Lake George",
+					"caption": "Adding cheer to a Christmas-in-July event at Lake George",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNIWuPSFZGvvUI7RpQ2SNATt0V3SEH3r8LYW2wIAhtRTcwbD8TNZP-i_LOd22cTCZDp0hpHDcdQU6HNbs2D6GSb5WCbexdlWh4--Fx88Z4mrSLzqeSgIA-WY_XPgQscUx5RLKlku3v5Lq0gko8buIPL=w877-h869-s-no?authuser=0",
@@ -50,12 +50,12 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/2NU2clscBi0Cx3uy85tEfj06-IoV1y_huDe1d8p78KerACbDsIJv0nSjxpN2pm08BJAYZeZdtnvJcfG5P7dNB9K4pZYO_ZflIlD90KO7wrybZwBiRlQgZ7__gkAINtulcjnVABeLvMpRsMuHoC8z5FLoI5u2pz_9H6mIKg5_6kGes3qm9xFUpb1uW1SBfV_eLEE8IvM67Kbqc658je8tCcP9jEr0YuHWqkGDQDPIiDMtytR5BzUsRr0qau3iygo6h7SU7nNhZPzikoTe61Fy1JhKwSH-3UEntBb2gTHNy5hgmh-MYY-jXI2VlpFj6l6m85Y8BKAD1kDMrraeHhiH1s0v4WQT4othatSPPyh6GOIsxAsuFdX1HLRrCBaWEyQ8NDMXOhSqZN3cicwozLNmFLa6halEJ0E5zBYuinlWaNiGtr13xX9f8tGD9vLZz3XKU-Td12AtwhSY6d_qreUGp4gI1FNy_QWZ9DqMcQIysT3nUOI_JAmFF02p81kcv_15iMcbrsPLNshihLKJy7KnFxDixMAYHySZ_D9-wumGAAD4_lZKxeQ0eaYHJ6DrywIc80-NjovArjTgU13tLmQ9w-j3nV3YWU_r616EEhDxyBFmukyXK-mXFvWc7t4qpciFjFt_otdykZBJISBJjFL_Yi6YBQjbuoBqwDqVS6iGiYeEh6g8kiT8i3GtDRUX7hQYV1KstW9oEtgLLi93wiCwciuVkFecLI2LXOW31xG3Gr53cf1K=w1406-h937-no",
 					"desc": "Two reindeer peeking over a wooden board with their mouths open.",
-					"caption": "They laugh at my Dad jokes sometimes.",
+					"caption": "They laugh at my Dad jokes sometimes",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMh_fslNFT7ddZTmFVKTNE4jaP0NuJZz3kiD-063e-nNE096rZzc-CZum_Kmdc8gpdjEU1cSEShNoJ3LbgvepgBgZIhZ4_SJPrObE5yX0xgeWLMQlV8nnEHDS5Z7BJ9Tyzt3t_RPjZMx5YXApLkcbF4=w956-h823-s-no?authuser=0",
 					"desc": "A baby reindeer with his nose to the ground while his mother looks on. Spring grass and leaves, with a forest behind. ",
-					"caption": "Our newest reindeer calf enjoys the weather while mom looks on protectively ",
+					"caption": "Our newest reindeer calf enjoys the spring weather while mom supervises",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMzx-jR4DVCsMbESV7y7nX1aTM0FUrs35ImVK2Q8EIpZRzK4AcmRxumEKswE_eDDsin-mHNKRyn4_2A9qgvvjwFn0a3VN5TC6qUehelaf44c7076hMOSHIcr71tyYtWLQBq-o9rebiWzMFw04Bz6p42=w1545-h869-s-no?authuser=0",
@@ -70,7 +70,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczM6ToEGLzQ2aQ4tvIeHAzCEpu0EWZxNtKdGfugLJZduL_v4-5tFy1mo-01abTd70esnCGX6w5lLlKjk7DPgpGt4VJW21D0swofoSy7D3SIxCkTnOKMePWPxI74ETGnaRMgVlrLBncZfRq-xmsZPbWGJ=w1545-h869-s-no?authuser=0",
 					"desc": "A reindeer, a woman in running gear, and a green sleigh with fall decorations stand near a wooden barn",
-					"caption": "Hosting the Sleigh Me 24/48 Hour Ultra to benefit ROCovery",
+					"caption": "Hosting the Sleigh Me Ultra to benefit ROCovery",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/WB7hZXpfvVhJ0p3Hl7HXhM6KZ4af4tHj7d4g25GxESptIJ2WT23a5shxwbvxIIehVX1cJkWGAGIlzbR95gCxYuoDCreyETn9nphiDscQz8Qjt6l8_dUbHU_XX0YEWa_qTZR56d9krlmKb7J-897lpCPX1XBL2iQH9g07eyoPannoo7FGYtIbHSStN5mCJsLzKDQ40NJg9d1Kr7xONtN-6ujcF7F3Qq6yJ1JaMgDArhXJ_rFZpZJCawicGnTVoGtf6R0EHY28BDr9fHE4nH8Bd8y1skvqihnsqGGKZhV2uPD-lvDSk70n9cisBDWZP-TxOsP4lHExIvfWAOcL1hTp5J79n_fImknqlI9oXQdhDQbaBWaguPrUrRkt1v2r-XVGxKWZ9rAd3JS9ClaggaccUDN3hQwgQ-UFmBGD2LF1m1QyMdrKgE0akg2EyCyOWeVqzJQ_O8OoTDr_zllXpV3eBcS-CEmFglZfGOerZXg6nScDMyCOKhJPwK5ihrBl8lujSobceQ-7O_Aul1RqW1Qt1GCsMJ5aNZvuMKZkziSFZ2DAJk-h6V1MJemjKo-k6p3KYe_G5UUZyKat-bDWy7UqJG5II-pL6lEqmozj3dU3sh7Dx6RQz9DZb6VqyYWgHCp_OoGEiNivxk3eox0iv6RKdMcxchbOxZUrP2eu5qq4JxiAnHt2AO9Tv3kMqg5x85X74yE6f8GUnXHGFywGfZt_ATQhwFR4QKya8heGf5HJlH1Jtg7a=w1406-h937-no",
@@ -95,12 +95,12 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPNrC3cBzxFsQd9iRX5MScWlqS7RJ3em1jfqhLHxwKICqDDggtOpz1Safs55TR22HqbgcNMeXX7xVpLvV_-7OE5JjJFDu6E6QKDUZr8B3aCc-hY07Ir_y-pr976sc9No-B6UcC05_8dKBQqq1DIuFrD=w489-h869-s-no?authuser=0",
 					"desc": "The head of a reindeer with large antlers, covered in velvet. The reindeer is standing in front of a group of people sitting on hay bales listening to a presenter, in a wooden barn with rustic rafters.",
-					"caption": "A bull reindeer with velvet-covered antlers at the Cornell AgriTourism seminar at the farm",
+					"caption": "A bull reindeer with antlers in velvet, hosting an agritourism seminar",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNbJHCweP4CECboGK1dBnqtWQhNJ8utZtmUXObE2_OvrHsN-XeRWoqCrdhq15de7kYrLyTLpAyHeuMEBlxBV_xH72MIFXhPzbEETHBK_LRpcNzJHLHZIrKuuIH8bqdbPLPO1sJ1-sN1SFBgqgNXRYmv=w489-h869-s-no?authuser=0",
 					"desc": "A bull reindeer in the snow showing off his large rack. Look at those toes! and reindeer pellets in the snow.",
-					"caption": "A bull reindeer after he has rubbed the velvet off of his antlers",
+					"caption": "A bull reindeer after rubbing the velvet off of his antlers",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczPjn6KrDaRwuGSr4c0DpdNdFggdz7TFffPzUpGakt8wS3QJ3K3W0LTFf3EmqCPF_6eFr5-FSfiO8AU6eyWxz5Hf4z1x76tunQM6aumz6bmM5gmkNDVCQopRvrMlg0haQp9V3_ZWk0S2v6viioi6CAFn=w1144-h869-s-no?authuser=0",
@@ -115,7 +115,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMUGq6odm972JPo_48daoMF3pXptLDTKTxbRbmW32UmLVvLJYG0xQKw1e4U_AaANB_GfIczzsebEFVz2QC6ivIeM2TDipZZ0k8M4VZDgOeExyAyKmyAYxGh80npKKB4e1XNhQb7nu7iDZbsPxbDQlcS=w1545-h869-s-no?authuser=0",
 					"desc": "A reindeer with a shaggy, shedding coat and small antlers in velvet.",
-					"caption": "Reindeer get pretty shaggy, shedding their winter coats in the spring",
+					"caption": "Reindeer get pretty shaggy, shedding their winter coats",
 				},
 								
 				{
@@ -202,7 +202,7 @@ window.onload = function () {
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3f-Y9qc9XRURdLIDWFvQPcQWnphboPp1fhb2EpTrPhCfqhoZSeRAr_YiR3RitcuxZRq5nWXKup2Yo5I4qsJC1oN_ULyCJFnzvDTjn6hHN079n2pbjas2-DzfMB-nq0HgLDAWlq0mxf20Rwi6IcrVFUQmw=w1669-h938-no?authuser=0",
 					"desc": "The frame of a short hallway attached to the barn. The posts still have bark on them.",
-					"caption": "The beginnings of the back patio for the boys to dine ",
+					"caption": "The beginnings of the back patio for the boys to dine",
 				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/ACtC-3crO9ZnOstGUi15UE8YOo8G0FC8HNvPDKTHGS3xmfB8C44bAKqgzaLaIIRi0S3HLxFFCSfEq41KFXr6lb4on_XWyWbRtvXbRx9xghNF-w_WsPO3GPXctXt8OATi8S7qhYSB-h-1mPWx5Cxb3smFd_ViKg=w1669-h938-no?authuser=0",
