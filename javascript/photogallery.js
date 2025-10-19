@@ -7,6 +7,21 @@ window.onload = function () {
 		{
 			"name": "Photo Gallery (click or tap an image to make it bigger)",
 			"photos": [
+								{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMTdvamh45f40eKhFZhBzSU5Vg5qJcB6B2VdVI5W0wz3GKrBCBaBIq4rr2taxniq3enEDIJaqFXW79I-eNuHJ65FXSTH5zZEsArU5Z_PXftq5A2LG-lB0LmU4quYi3Hd8xKSt_lq5mWB8hQIHGB-yRu=w1269-h846-s-no?authuser=0",
+					"desc": "A young boy in lederhosen looks at a young reindeer with sun in background.",
+					"caption": "Enjoying the first Volksmarsch at the Farm.",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczOhb3om-s70rFBmSVH4AZFQCLTWqlg0BahO5SPeohVZwAY-KfMAKNjmPADISrjMg5894NWeSHopSCEvO58J_-Ml-ib0Bvtv15bchZNwIegpItDtUvwiM_fyKgoDkZAfqkT9wM-lDHvI3PRSGJ9Vbsvz=w1109-h871-s-no?authuser=0",
+					"desc": "People serve bratwurst to a line of waiting adults on a sunny day outdoors.",
+					"caption": "Friends of the Library serve up authentic German brats.",
+				},
+				{
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczOjL9TPKuwkfkAUFFKtyX_e_CfV4Emv7QXvLQ8rGbDHiSydxi7xbB-UZRjP2aRSdqPoG7UTjK7PSiMRO8RZKMuP22IE_WSwUjRZR-vyvI3a78MXsWuNovDcwsIAXxNahDmQBzprgoAZoUM1peJwvuyQ=w697-h871-s-no?authuser=0",
+					"desc": "Smiling man in lederhosen with a hiking stick, in front of a sunny fall scene with straw bales, a barn, and trees.",
+					"caption": "The Reindeer Guy loving the German vibes.",
+				},
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNYExN1crFmDNaP5t_3tqHgEMKFbYOqzD2l0p4UCD3ASNxAfHW3QYdQgmo69kT9QOX0v2zu2b_ZidphhORsaQgyTGdX0KTiVf8HsVo4nQLLqLcAOQCwY4-ZOmYNqBN-xSGz1eRjC7rLLV6IfsGasRcA=w652-h869-s-no?authuser=0",
 					"desc": "A baby reindeer in front of a hay bale and green fence.",
