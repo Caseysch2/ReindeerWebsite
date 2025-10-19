@@ -7,7 +7,7 @@ window.onload = function () {
 		{
 			"name": "Photo Gallery (click or tap an image to make it bigger)",
 			"photos": [
-								{
+				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczMTdvamh45f40eKhFZhBzSU5Vg5qJcB6B2VdVI5W0wz3GKrBCBaBIq4rr2taxniq3enEDIJaqFXW79I-eNuHJ65FXSTH5zZEsArU5Z_PXftq5A2LG-lB0LmU4quYi3Hd8xKSt_lq5mWB8hQIHGB-yRu=w1269-h846-s-no?authuser=0",
 					"desc": "A young boy in lederhosen looks at a young reindeer with sun in background.",
 					"caption": "Enjoying the first Volksmarsch at the Farm.",
