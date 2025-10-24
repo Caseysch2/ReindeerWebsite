@@ -22,8 +22,6 @@ window.onload = function () {
 					"desc": "Smiling man in lederhosen with a hiking stick, in front of a sunny fall scene with straw bales, a barn, and trees.",
 					"caption": "The Reindeer Guy loving the German vibes.",
 				},
-				const string = "See more Volksmarsch photos at Cassie Webb Captures.";
-                console.log(string);
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNYExN1crFmDNaP5t_3tqHgEMKFbYOqzD2l0p4UCD3ASNxAfHW3QYdQgmo69kT9QOX0v2zu2b_ZidphhORsaQgyTGdX0KTiVf8HsVo4nQLLqLcAOQCwY4-ZOmYNqBN-xSGz1eRjC7rLLV6IfsGasRcA=w652-h869-s-no?authuser=0",
 					"desc": "A baby reindeer in front of a hay bale and green fence.",
