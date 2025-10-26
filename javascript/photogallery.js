@@ -1,7 +1,9 @@
 document.getElementById('photo-gallery-container').innerHTML = "Loading pictures...";
 
 window.onload = function () {
-	// The list of photos, grouped by section (all fields are mandatory)
+	// The list of photos (and links), grouped by section
+	// For a photo, you must specify "picture", "desc" and "caption"
+	// For a link, you must specify "link" and "text" and they should be positioned right before a double-wide image for best results
 	photos = [
 		
 		{
