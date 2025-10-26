@@ -23,6 +23,10 @@ window.onload = function () {
 					"caption": "The Reindeer Guy loving the German vibes.",
 				},
 				{
+					"link": "https://photos.app.goo.gl/uobJZZWDvLb7uNPF7",
+					"text": "See more photos at Cassie Webb Captures",
+				},
+				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczNYExN1crFmDNaP5t_3tqHgEMKFbYOqzD2l0p4UCD3ASNxAfHW3QYdQgmo69kT9QOX0v2zu2b_ZidphhORsaQgyTGdX0KTiVf8HsVo4nQLLqLcAOQCwY4-ZOmYNqBN-xSGz1eRjC7rLLV6IfsGasRcA=w652-h869-s-no?authuser=0",
 					"desc": "A baby reindeer in front of a hay bale and green fence.",
 					"caption": "Spring on the farm means baby reindeer!",
@@ -369,7 +373,7 @@ window.onload = function () {
 			} else if (photos[index]["text"] != null) {
 				// This is a link, or text, in the midst of the photo gallery.
 				numberOfLinks++;
-				thisEvent = '';
+				thisEvent = '<div style="width: 100%;text-align: center;"><p><i><a href="'+ photos[index]["link"] + '">' + photos[index]["text"] + '</a></i></p></div>';
 			}
 			// Append it to the list of divs we have going
 			returnHtml = returnHtml + thisEvent;
