@@ -371,7 +371,7 @@ window.onload = function () {
 				thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
 					'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
 					(isLarge ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
-					'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></button>';
+					'<div class="caption ' + (isLarge ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></button>';
 			} else if (photos[index]["text"] != null) {
 				// This is a link, or text, in the midst of the photo gallery.
 				numberOfLinks++;
