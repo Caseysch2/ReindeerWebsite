@@ -350,16 +350,27 @@ window.onload = function () {
 	*/
 	function convertEventObjectsToDiv(photos) {
 		var returnHtml = "";
+		var numberOfLinks = 0;
 
-		// Make a div for each photo. "Randomly" select some of them to be double width.
+		// Make a div for each photo. 
 		for (var index in photos) {
-			// Escape quote marks in the caption so the modal function doesn't crash
-			var safeCaption = photos[index]["caption"].replace(/['"]/g, '\\\'');
-			thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
-				'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
-				(index % 5 == 0 ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
-				'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></button>';
+			if (photos[index]["picture"] != null) {
+				// Escape quote marks in the caption so the modal function doesn't crash
+				var safeCaption = photos[index]["caption"].replace(/['"]/g, '\\\'');
+			
+				// "Randomly" select every fifth photo to be double width.
+				var isLarge = (index - numberOfLinks) % 5 == 0
 
+				// Make the HTML for the picture
+				thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
+					'<div role="img" style="background-image: url(' + photos[index]["picture"] + ')" aria-label="' + photos[index]["desc"] + '"' +
+					(isLarge ? ' class="gallery-image double-wide"' : 'class="gallery-image"') + '></div>' +
+					'<div class="caption ' + (index % 5 == 0 ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></button>';
+			} else if (photos[index]["text"] != null) {
+				// This is a link, or text, in the midst of the photo gallery.
+				numberOfLinks++;
+				thisEvent = '';
+			}
 			// Append it to the list of divs we have going
 			returnHtml = returnHtml + thisEvent;
 		}
