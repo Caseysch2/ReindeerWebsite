@@ -3,7 +3,7 @@ document.getElementById('photo-gallery-container').innerHTML = "Loading pictures
 window.onload = function () {
 	// The list of photos (and links), grouped by section
 	// For a photo, you must specify "picture", "desc" and "caption"
-	// For a link, you must specify "link" and "text" and they should be positioned right before a double-wide image for best results
+	// For a link, you must specify "link" and "text"
 	photos = [
 		
 		{
@@ -356,7 +356,7 @@ window.onload = function () {
 	*/
 	function convertEventObjectsToDiv(photos) {
 		var returnHtml = "";
-		var numberOfLinks = 0;
+		var photosSinceLastBreak = 0;
 
 		// Make a div for each photo. 
 		for (var index in photos) {
@@ -365,7 +365,8 @@ window.onload = function () {
 				var safeCaption = photos[index]["caption"].replace(/['"]/g, '\\\'');
 			
 				// "Randomly" select every fifth photo to be double width.
-				var isLarge = (index - numberOfLinks) % 5 == 0
+				var isLarge = photosSinceLastBreak % 5 == 0
+				photosSinceLastBreak++;
 
 				// Make the HTML for the picture
 				thisEvent = '<button onclick="imageClicked(' + "'" + photos[index]["picture"] + "', '" + safeCaption + "'" + ')">' +
@@ -374,7 +375,7 @@ window.onload = function () {
 					'<div class="caption ' + (isLarge ? ' double-wide' : '') + '">' + photos[index]["caption"] + '</div></button>';
 			} else if (photos[index]["text"] != null) {
 				// This is a link, or text, in the midst of the photo gallery.
-				numberOfLinks++;
+				photosSinceLastBreak = 0;
 				thisEvent = '<div style="width: 100%;text-align: center;"><p><i><a href="'+ photos[index]["link"] + '">' + photos[index]["text"] + '</a></i></p></div>';
 			}
 			// Append it to the list of divs we have going
