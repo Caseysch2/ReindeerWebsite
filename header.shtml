@@ -34,7 +34,7 @@
 				<ul>
 					<li><a href=".">Home</a></li>
 					<li><a href="./about.html">About</a></li>
-					<li><a href="./events.html">Events</a></li>
+					<li><a href="./events.html">Visit</a></li>
 					<li><a href="./hire.html">Hire Us</a></li>
 					<li><a href="./photos.html">Gallery</a></li>
 					<li><a href="./contact.html">Contact</a></li>
@@ -42,3 +42,4 @@
 				</ul>
 			</nav>
 		</div>
+
