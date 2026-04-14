@@ -10,7 +10,7 @@ window.onload = function () {
 			"name": "Photo Gallery (click or tap an image to make it bigger)",
 			"photos": [
 				{
-					"picture": "https://photos.google.com/share/AF1QipOtLZ9NLwXPZKdJIAplGA5pghXCnHHelytRK77WwkI728bIaNc1zrxvhbDixVdaEg/photo/AF1QipP3ycPEXy4yd2jwxqsroJJr0La6MFt9jp7tfK0B?key=X2QzR2QxV05pam5lLTBlTkdSTVdGWXI1X1g4Vm1R",
+					"picture": "https://lh3.googleusercontent.com/pw/AP1GczOYL7uADXtnTpPMAp-bjqAwHnIVY2p9OR_aZDvfO_P8xhpXp8YUCAYaRLR0NDHXGi2SMXoQafPV_I6Zr1E2zjWhw45amOTRYDbZ7YzEoCesCsVFPhF4GV663thx_BHHsVmSPNHw3UrNICotOiskliyQ=w1307-h871-s-no?authuser=0",
 					"desc": "A young boy in lederhosen looks at a young reindeer with sun in background.",
 					"caption": "Enjoying the first Volksmarsch at the Farm.",
 				},
