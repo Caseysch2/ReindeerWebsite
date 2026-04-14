@@ -11,7 +11,7 @@ window.onload = function () {
 			"photos": [
 				{
 					"picture": "https://lh3.googleusercontent.com/pw/AP1GczOYL7uADXtnTpPMAp-bjqAwHnIVY2p9OR_aZDvfO_P8xhpXp8YUCAYaRLR0NDHXGi2SMXoQafPV_I6Zr1E2zjWhw45amOTRYDbZ7YzEoCesCsVFPhF4GV663thx_BHHsVmSPNHw3UrNICotOiskliyQ=w1307-h871-s-no?authuser=0",
-					"desc": "A young boy in lederhosen looks at a young reindeer with sun in background.",
+					"desc": "A young boy in lederhosen looks at a young reindeer, with sun in background.",
 					"caption": "Enjoying the first Volksmarsch at the Farm.",
 				},
 				{
